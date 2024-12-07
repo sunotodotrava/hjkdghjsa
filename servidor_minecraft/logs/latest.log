@@ -1144,3 +1144,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [07Dec2024 21:27:05.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam save
 [07Dec2024 21:27:08.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam save
 [07Dec2024 21:27:14.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam-server start
+[07Dec2024 21:27:50.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam save
+[07Dec2024 21:28:03.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam-server start asd linkadorigind
+[07Dec2024 21:28:12.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam-server start asd @a
+[07Dec2024 21:29:26.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam-server start asd linkadorigind
+[07Dec2024 21:29:41.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cinematic linkadorigind 100 1207.mp4
+[07Dec2024 21:30:26.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero lost connection: Disconnected
+[07Dec2024 21:30:26.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablorelojero
+[07Dec2024 21:30:26.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pablorelojero left the game
+[07Dec2024 21:31:01.470] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player pablorelojero is 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 21:31:02.966] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@793201a4
+[07Dec2024 21:31:02.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablorelojero[/127.67.114.219:44827] logged in with entity id 9704 at (-359.8200233297195, 101.53292827534491, 1188.1415113672874)
+[07Dec2024 21:31:03.008] [Server thread/INFO] [Waila/]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
+[07Dec2024 21:31:03.695] [Server thread/INFO] [ping-wheel/]: Channel update: pablorelojero -> "rawr"
+[07Dec2024 21:31:03.714] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablorelojero (18)
+[07Dec2024 21:31:03.714] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablorelojero
+[07Dec2024 21:31:04.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 21:31:05.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 21:31:05.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[07Dec2024 21:31:34.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /config showfile jei SERVER
+[07Dec2024 21:31:34.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Config for jei of type SERVER found at jei-server.toml]
+[07Dec2024 21:31:42.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /config showfile jei CLIENT
+[07Dec2024 21:31:42.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Config for jei of type CLIENT not found]
+[07Dec2024 21:31:45.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /config showfile jei COMMON
+[07Dec2024 21:31:45.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Config for jei of type COMMON not found]
+[07Dec2024 21:33:50.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind was blown up by Creeper
+[07Dec2024 21:35:38.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /vanish
+[07Dec2024 21:35:38.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: [Vanishmod] pablorelojero vanished]
+[07Dec2024 21:36:44.071] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[07Dec2024 21:36:46.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
