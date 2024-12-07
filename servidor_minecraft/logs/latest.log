@@ -1,8 +1,6 @@
-[03:54:58] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.16.3
-[03:54:59] [ForkJoinPool-1-worker-4/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:54:59] [main/INFO]: Loading 59 mods:
-	- cloth-config 6.5.102
-	   \-- cloth-basic-math 0.6.1
+[06:32:45] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.16.3
+[06:32:46] [ForkJoinPool-1-worker-2/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[06:32:46] [main/INFO]: Loading 57 mods:
 	- cristellib 1.0.0
 	   \-- blue_endless_jankson 1.2.1
 	- fabric-api 0.77.0+1.18.2
@@ -72,102 +70,123 @@
 	   \-- fabric-key-binding-api-v1 1.0.12+54e5b2ec60
 	- voicechatbroadcast 1.1.0-1.18.2
 	- xaeroworldmap 1.39.0
-[03:54:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hjkdghjsa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:54:59] [main/INFO]: Compatibility level set to JAVA_17
-[03:54:59] [main/WARN]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:54:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:55:05] [main/INFO]: dumping Runtime Pack's assets and data
-[03:55:05] [main/INFO]: [FANCYMENU] Loading v3.3.2 in server-side mode on FABRIC!
-[03:55:05] [main/ERROR]: No data fixer registered for immersive_aircraft:gyrodyne
-[03:55:05] [main/ERROR]: No data fixer registered for immersive_aircraft:biplane
-[03:55:05] [main/ERROR]: No data fixer registered for immersive_aircraft:airship
-[03:55:05] [main/ERROR]: No data fixer registered for immersive_aircraft:cargo_airship
-[03:55:05] [main/ERROR]: No data fixer registered for immersive_aircraft:quadrocopter
-[03:55:05] [main/INFO]: [KONKRETE] Successfully initialized!
-[03:55:05] [main/INFO]: [KONKRETE] Server-side libs ready to use!
-[03:55:05] [main/INFO]: [MELODY] Disabling Melody since it's loaded server-side.
-[03:55:05] [main/INFO]: Loading OpenBlocks Elevator Mod by ImFalling...
-[03:55:05] [main/INFO]: Registering mod items fortechmod
-[03:55:05] [main/INFO]: registering mod blocks fortechmod
-[03:55:05] [main/INFO]: [voicechat] Compatibility version 18
-[03:55:05] [main/INFO]: [voicechat] Loading plugins
-[03:55:05] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[03:55:05] [main/INFO]: [voicechat] Initializing plugins
-[03:55:05] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[03:55:05] [main/INFO]: [voicechat] Registering events for 'voicechatbroadcastmod'
-[03:55:05] [main/INFO]: Voicechat Broadcast Initialised
-[03:55:05] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[03:55:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:55:07] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[03:55:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:55:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:55:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:55:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:55:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:55:08] [main/WARN]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:55:09] [Worker-Main-4/INFO]: Loaded 7 recipes
-[03:55:10] [Worker-Main-4/INFO]: Loaded 1143 advancements
-[03:55:12] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 19.12 ms
-[03:55:12] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[03:55:12] [Server thread/INFO]: Loading properties
-[03:55:12] [Server thread/INFO]: Default game type: SURVIVAL
-[03:55:12] [Server thread/INFO]: Generating keypair
-[03:55:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:55:12] [Server thread/INFO]: Using epoll channel type
-[03:55:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:55:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:55:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:55:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:55:12] [Server thread/INFO]: Preparing level "world"
-[03:55:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:55:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[03:55:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[03:55:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[03:55:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[03:55:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[03:55:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[03:55:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[03:55:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[03:55:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[03:55:17] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[03:55:17] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[03:55:18] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[03:55:18] [Worker-Main-5/INFO]: Preparing spawn area: 37%
-[03:55:19] [Worker-Main-5/INFO]: Preparing spawn area: 74%
-[03:55:20] [Server thread/INFO]: Time elapsed: 7244 ms
-[03:55:20] [Server thread/INFO]: Done (7.534s)! For help, type "help"
-[03:55:20] [Server thread/INFO]: Start loading plugin from Jade
-[03:55:20] [Server thread/INFO]: Start loading plugin from Jade
-[03:55:20] [Server thread/INFO]: Start loading plugin from Jade
-[03:55:20] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03:55:20] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'airport-logic.gl.at.ply.gg:1905'
-[03:55:20] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[03:55:20] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 1905
-[03:59:54] [Server thread/INFO]: Reloading!
-[03:59:54] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:59:54] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:59:54] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:59:54] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:59:54] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:59:54] [Server thread/WARN]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:59:54] [Server thread/INFO]: Loaded 7 recipes
-[03:59:54] [Server thread/INFO]: Loaded 1143 advancements
-[04:00:41] [Server thread/INFO]: pablorelojero[/127.67.114.219:55479] logged in with entity id 160 at (66.07141717137691, 70.0, -152.08823615079953)
-[04:00:41] [Server thread/INFO]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
-[04:00:41] [Server thread/INFO]: pablorelojero joined the game
-[04:00:42] [Server thread/INFO]: [voicechat] Received secret request of pablorelojero (18)
-[04:00:42] [Server thread/INFO]: [voicechat] Sent secret to pablorelojero
-[04:00:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
-[04:00:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
-[04:00:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
-[04:03:06] [Server thread/INFO]: pablorelojero lost connection: Disconnected
-[04:03:06] [Server thread/INFO]: pablorelojero left the game
-[04:03:06] [Server thread/INFO]: [voicechat] Disconnecting client pablorelojero
-[04:03:37] [Server thread/INFO]: pablorelojero[/127.67.114.219:54005] logged in with entity id 2041 at (378.6158572651786, 65.00133597911214, -153.59717130620737)
-[04:03:37] [Server thread/INFO]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
-[04:03:37] [Server thread/INFO]: pablorelojero joined the game
-[04:03:38] [Server thread/INFO]: [voicechat] Received secret request of pablorelojero (18)
-[04:03:38] [Server thread/INFO]: [voicechat] Sent secret to pablorelojero
-[04:03:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
-[04:03:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
-[04:03:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[06:32:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hjkdghjsa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:32:46] [main/INFO]: Compatibility level set to JAVA_17
+[06:32:46] [main/WARN]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:32:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06:32:54] [main/INFO]: dumping Runtime Pack's assets and data
+[06:32:55] [main/INFO]: [FANCYMENU] Loading v3.3.2 in server-side mode on FABRIC!
+[06:32:55] [main/ERROR]: No data fixer registered for immersive_aircraft:gyrodyne
+[06:32:55] [main/ERROR]: No data fixer registered for immersive_aircraft:biplane
+[06:32:55] [main/ERROR]: No data fixer registered for immersive_aircraft:airship
+[06:32:55] [main/ERROR]: No data fixer registered for immersive_aircraft:cargo_airship
+[06:32:55] [main/ERROR]: No data fixer registered for immersive_aircraft:quadrocopter
+[06:32:55] [main/INFO]: [KONKRETE] Successfully initialized!
+[06:32:55] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[06:32:55] [main/INFO]: [MELODY] Disabling Melody since it's loaded server-side.
+[06:32:55] [main/INFO]: Loading OpenBlocks Elevator Mod by ImFalling...
+[06:32:55] [main/INFO]: Registering mod items fortechmod
+[06:32:55] [main/INFO]: registering mod blocks fortechmod
+[06:32:55] [main/INFO]: [voicechat] Compatibility version 18
+[06:32:55] [main/INFO]: [voicechat] Loading plugins
+[06:32:55] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[06:32:55] [main/INFO]: [voicechat] Initializing plugins
+[06:32:55] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[06:32:55] [main/INFO]: [voicechat] Registering events for 'voicechatbroadcastmod'
+[06:32:55] [main/INFO]: Voicechat Broadcast Initialised
+[06:32:55] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[06:32:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:32:58] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[06:32:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:32:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:32:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:32:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:32:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:32:59] [main/WARN]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:33:00] [Worker-Main-4/INFO]: Loaded 7 recipes
+[06:33:01] [Worker-Main-4/INFO]: Loaded 1143 advancements
+[06:33:03] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 3.404 ms
+[06:33:03] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[06:33:03] [Server thread/INFO]: Loading properties
+[06:33:03] [Server thread/INFO]: Default game type: SURVIVAL
+[06:33:03] [Server thread/INFO]: Generating keypair
+[06:33:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:33:04] [Server thread/INFO]: Using epoll channel type
+[06:33:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:33:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:33:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:33:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:33:04] [Server thread/INFO]: Preparing level "world"
+[06:33:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:33:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:12] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:33:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:33:15] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[06:33:15] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[06:33:16] [Worker-Main-5/INFO]: Preparing spawn area: 21%
+[06:33:16] [Worker-Main-5/INFO]: Preparing spawn area: 38%
+[06:33:17] [Worker-Main-6/INFO]: Preparing spawn area: 53%
+[06:33:17] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[06:33:18] [Worker-Main-4/INFO]: Preparing spawn area: 82%
+[06:33:18] [Worker-Main-6/INFO]: Preparing spawn area: 99%
+[06:33:19] [Server thread/INFO]: Time elapsed: 14096 ms
+[06:33:19] [Server thread/INFO]: Done (14.447s)! For help, type "help"
+[06:33:19] [Server thread/INFO]: Start loading plugin from Jade
+[06:33:19] [Server thread/INFO]: Start loading plugin from Jade
+[06:33:19] [Server thread/INFO]: Start loading plugin from Jade
+[06:33:19] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[06:33:19] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[06:33:19] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'airport-logic.gl.at.ply.gg:1905'
+[06:33:19] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 1905
+[06:33:31] [Server thread/INFO]: linkadorigind[/127.252.188.16:42705] logged in with entity id 33 at (-343.5626265404922, 77.0, 1128.941624214811)
+[06:33:31] [Server thread/INFO]: Syncing config to linkadorigind (0e2dcfa1-9f72-375e-80fb-412cb34b3939)
+[06:33:31] [Server thread/INFO]: linkadorigind joined the game
+[06:33:35] [Server thread/INFO]: [voicechat] Received secret request of linkadorigind (18)
+[06:33:35] [Server thread/INFO]: [voicechat] Sent secret to linkadorigind
+[06:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+[06:33:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0e2dcfa1-9f72-375e-80fb-412cb34b3939
+[06:33:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0e2dcfa1-9f72-375e-80fb-412cb34b3939
+[06:33:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player linkadorigind (0e2dcfa1-9f72-375e-80fb-412cb34b3939) successfully connected to voice chat
+[06:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5194ms or 103 ticks behind
+[06:35:12] [Server thread/INFO]: SunoproMC[/127.38.11.151:55035] logged in with entity id 739 at (-345.06168891688526, 63.5, 947.52502854407)
+[06:35:12] [Server thread/INFO]: Syncing config to SunoproMC (df36d4d2-211e-3e3d-a95a-c029a1226651)
+[06:35:12] [Server thread/INFO]: SunoproMC joined the game
+[06:35:12] [Server thread/INFO]: [voicechat] Received secret request of SunoproMC (18)
+[06:35:12] [Server thread/INFO]: [voicechat] Sent secret to SunoproMC
+[06:35:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player df36d4d2-211e-3e3d-a95a-c029a1226651
+[06:35:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player df36d4d2-211e-3e3d-a95a-c029a1226651
+[06:35:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player SunoproMC (df36d4d2-211e-3e3d-a95a-c029a1226651) successfully connected to voice chat
+[06:38:21] [Server thread/INFO]: aikiss[/127.89.79.97:45721] logged in with entity id 1445 at (-346.55938631718135, 63.5, 949.1749234750753)
+[06:38:21] [Server thread/INFO]: Syncing config to aikiss (edccfff7-5086-36de-9a88-aaa5c61723a2)
+[06:38:21] [Server thread/INFO]: aikiss joined the game
+[06:38:21] [Server thread/INFO]: [voicechat] Received secret request of aikiss (18)
+[06:38:21] [Server thread/INFO]: [voicechat] Sent secret to aikiss
+[06:38:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player edccfff7-5086-36de-9a88-aaa5c61723a2
+[06:38:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player edccfff7-5086-36de-9a88-aaa5c61723a2
+[06:38:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player aikiss (edccfff7-5086-36de-9a88-aaa5c61723a2) successfully connected to voice chat
+[06:38:38] [Server thread/WARN]: UUID of added entity already exists: class_1551['Drowned'/1509, l='ServerLevel[world]', x=-563.23, y=49.00, z=787.64]
+[06:41:34] [Server thread/INFO]: pablorelojero[/127.67.114.219:59963] logged in with entity id 2235 at (-347.98768480786595, 63.5, 947.6261098234241)
+[06:41:34] [Server thread/INFO]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
+[06:41:34] [Server thread/INFO]: pablorelojero joined the game
+[06:41:34] [Server thread/INFO]: [voicechat] Received secret request of pablorelojero (18)
+[06:41:34] [Server thread/INFO]: [voicechat] Sent secret to pablorelojero
+[06:41:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[06:41:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[06:41:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
