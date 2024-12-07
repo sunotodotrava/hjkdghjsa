@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-07 20:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 05:12:48 +0000"
@@ -1044,6 +1050,12 @@
       "carrot": "2024-12-07 20:37:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-07 20:43:57 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {

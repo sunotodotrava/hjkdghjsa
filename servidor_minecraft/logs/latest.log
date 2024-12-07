@@ -1004,3 +1004,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [07Dec2024 20:38:58.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: [Vanishmod] pablorelojero vanished]
 [07Dec2024 20:42:48.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
 [07Dec2024 20:42:48.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
+[07Dec2024 20:49:58.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
+[07Dec2024 20:49:58.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
+[07Dec2024 20:52:22.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
+[07Dec2024 20:52:22.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
+[07Dec2024 20:53:25.742] [Server thread/INFO] [Console/]: <linkadorigind> pabloooooooooo
+[07Dec2024 20:56:25.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /vanis
+[07Dec2024 20:56:28.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /vanish
+[07Dec2024 20:56:28.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: [Vanishmod] pablorelojero unvanished]
+[07Dec2024 20:56:33.601] [Server thread/INFO] [Console/]: <linkadorigind> pablo
+[07Dec2024 20:56:36.459] [Server thread/INFO] [Console/]: <pablorelojero> q paso
+[07Dec2024 20:56:41.070] [Server thread/INFO] [Console/]: <linkadorigind> no tengo permiso para hablar
+[07Dec2024 20:57:02.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp user pablorelojero permission set voicechat.speak true
