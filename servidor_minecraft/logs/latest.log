@@ -986,3 +986,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [07Dec2024 20:34:46.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of linkadorigind) moved wrongly! 0.3578341406250729
 [07Dec2024 20:34:46.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of linkadorigind) moved wrongly! 0.3276168318152486
 [07Dec2024 20:34:46.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of linkadorigind) moved wrongly! 0.31144815233915324
+[07Dec2024 20:36:45.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind has made the advancement [A Seedy Place]
+[07Dec2024 20:38:44.363] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player pablorelojero is 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 20:38:45.821] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4852240e
+[07Dec2024 20:38:45.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablorelojero[/127.67.114.219:58161] logged in with entity id 2023 at (-364.69999998807907, 99.22430413701156, 1188.2664903591326)
+[07Dec2024 20:38:45.860] [Server thread/INFO] [Waila/]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
+[07Dec2024 20:38:46.578] [Server thread/INFO] [ping-wheel/]: Channel update: pablorelojero -> "rawr"
+[07Dec2024 20:38:46.603] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablorelojero (18)
+[07Dec2024 20:38:46.603] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablorelojero
+[07Dec2024 20:38:48.859] [Server thread/INFO] [Console/]: <linkadorigind> ola
+[07Dec2024 20:38:49.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 20:38:50.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 20:38:50.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[07Dec2024 20:38:57.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /vanish
+[07Dec2024 20:38:57.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: [Vanishmod] pablorelojero unvanished]
+[07Dec2024 20:38:58.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /vanish
+[07Dec2024 20:38:58.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: [Vanishmod] pablorelojero vanished]
+[07Dec2024 20:42:48.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
+[07Dec2024 20:42:48.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
