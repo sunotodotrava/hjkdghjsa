@@ -1016,3 +1016,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [07Dec2024 20:56:36.459] [Server thread/INFO] [Console/]: <pablorelojero> q paso
 [07Dec2024 20:56:41.070] [Server thread/INFO] [Console/]: <linkadorigind> no tengo permiso para hablar
 [07Dec2024 20:57:02.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp user pablorelojero permission set voicechat.speak true
+[07Dec2024 20:57:07.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp user pablorelojero permission set voicechat.listen
+[07Dec2024 20:57:07.892] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (pablorelojero) [U] (pablorelojero)
+[07Dec2024 20:57:07.893] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > permission set voicechat.listen true
+[07Dec2024 20:57:11.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp user pablorelojero permission set voicechat.listen true
+[07Dec2024 20:57:14.072] [Server thread/INFO] [Console/]: <pablorelojero> fijate ahora
+[07Dec2024 20:58:02.272] [Server thread/INFO] [Console/]: <pablorelojero> te deja hablar ahora?
+[07Dec2024 20:58:06.051] [Server thread/INFO] [Console/]: <linkadorigind> no tengo permiso
+[07Dec2024 20:59:13.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /voicechat test linkadorigind
+[07Dec2024 20:59:13.266] [Server thread/INFO] [voicechat/]: [voicechat] Sent ping 59be4751-8795-47d8-b152-8d16ceb7e92a attempt 1
+[07Dec2024 20:59:13.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Received pong 59be4751-8795-47d8-b152-8d16ceb7e92a
+[07Dec2024 20:59:31.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp deletegroup muteados
+[07Dec2024 20:59:31.663] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (pablorelojero) [G] (muteados)
+[07Dec2024 20:59:31.663] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > delete
+[07Dec2024 20:59:35.469] [Server thread/INFO] [Console/]: <pablorelojero> ahora?
+[07Dec2024 21:00:16.651] [Server thread/INFO] [Console/]: <linkadorigind> sigo sin permiso
+[07Dec2024 21:00:19.499] [Server thread/INFO] [Console/]: <linkadorigind> dame op
+[07Dec2024 21:01:33.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8b4148a7-95b4-3cf1-bf08-985717a684d3 timed out
+[07Dec2024 21:01:33.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pablorelojero
+[07Dec2024 21:01:33.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pablorelojero
+[07Dec2024 21:01:34.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 21:01:35.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 21:01:35.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[07Dec2024 21:01:44.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
+[07Dec2024 21:01:44.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
+[07Dec2024 21:02:01.134] [Server thread/INFO] [Console/]: <pablorelojero> queres venir?
+[07Dec2024 21:02:05.400] [Server thread/INFO] [Console/]: <linkadorigind> a donde?
+[07Dec2024 21:02:05.478] [Server thread/INFO] [Console/]: <pablorelojero> a jugar fn og
+[07Dec2024 21:02:13.549] [Server thread/INFO] [Console/]: <pablorelojero> tuki, yo y tomi
+[07Dec2024 21:02:21.032] [Server thread/INFO] [Console/]: <linkadorigind> toy armando un castillo ostia
+[07Dec2024 21:02:29.279] [Server thread/INFO] [Console/]: <pablorelojero> no?
+[07Dec2024 21:02:37.542] [Server thread/INFO] [Console/]: <linkadorigind> decile a tomi que venga a minecraft
+[07Dec2024 21:02:55.750] [Server thread/INFO] [Console/]: <pablorelojero> no
+[07Dec2024 21:02:58.343] [Server thread/INFO] [Console/]: <pablorelojero> veni a fn dale
+[07Dec2024 21:03:00.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0e2dcfa1-9f72-375e-80fb-412cb34b3939 timed out
+[07Dec2024 21:03:00.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player linkadorigind
+[07Dec2024 21:03:00.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to linkadorigind
+[07Dec2024 21:03:10.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind lost connection: Timed out
+[07Dec2024 21:03:10.214] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client linkadorigind
+[07Dec2024 21:03:10.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind left the game.
+[07Dec2024 21:03:10.274] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 21:03:10.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp editor users
+[07Dec2024 21:03:37.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero lost connection: Disconnected
+[07Dec2024 21:03:37.664] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablorelojero
+[07Dec2024 21:03:37.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pablorelojero left the game
