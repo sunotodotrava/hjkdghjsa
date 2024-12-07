@@ -190,3 +190,34 @@
 [06:41:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
 [06:41:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
 [06:41:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[06:42:54] [Server thread/INFO]: Tukiiii[/127.233.72.213:48815] logged in with entity id 2540 at (-346.5993164330151, 63.5, 946.1181839223677)
+[06:42:54] [Server thread/INFO]: Syncing config to Tukiiii (c7cfc929-243e-37ed-b2ba-19f702da3d70)
+[06:42:55] [Server thread/INFO]: Tukiiii joined the game
+[06:42:55] [Server thread/INFO]: [voicechat] Received secret request of Tukiiii (18)
+[06:42:55] [Server thread/INFO]: [voicechat] Sent secret to Tukiiii
+[06:42:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c7cfc929-243e-37ed-b2ba-19f702da3d70
+[06:42:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c7cfc929-243e-37ed-b2ba-19f702da3d70
+[06:42:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Tukiiii (c7cfc929-243e-37ed-b2ba-19f702da3d70) successfully connected to voice chat
+[06:43:19] [Server thread/INFO]: [pablorelojero: Teleported pablorelojero to aikiss]
+[06:51:25] [Server thread/INFO]: <linkadorigind> tuks
+[06:51:27] [Server thread/INFO]: pablorelojero lost connection: Disconnected
+[06:51:27] [Server thread/INFO]: pablorelojero left the game
+[06:51:27] [Server thread/INFO]: [voicechat] Disconnecting client pablorelojero
+[06:51:34] [Server thread/INFO]: <linkadorigind> voy a hacer un castillo
+[06:51:43] [Server thread/INFO]: <linkadorigind> mira la base
+[06:51:50] [Server thread/INFO]: [Tukiiii: Teleported Tukiiii to linkadorigind]
+[06:55:16] [Server thread/INFO]: [Tukiiii: Teleported Tukiiii to aikiss]
+[06:55:43] [Server thread/INFO]: SunoproMC lost connection: Disconnected
+[06:55:43] [Server thread/INFO]: SunoproMC left the game
+[06:55:43] [Server thread/INFO]: [voicechat] Disconnecting client SunoproMC
+[06:56:19] [Server thread/INFO]: <linkadorigind> tienen carbon?
+[06:56:31] [Server thread/INFO]: <linkadorigind> porfi
+[06:56:37] [Server thread/INFO]: [aikiss: Teleported aikiss to linkadorigind]
+[06:56:47] [Server thread/INFO]: [aikiss: Teleported aikiss to Tukiiii]
+[06:57:38] [Server thread/INFO]: Tukiiii lost connection: Disconnected
+[06:57:38] [Server thread/INFO]: Tukiiii left the game
+[06:57:38] [Server thread/INFO]: [voicechat] Disconnecting client Tukiiii
+[06:58:49] [Server thread/INFO]: <linkadorigind> ta lleno de gatos en esta montaña bldo
+[07:10:00] [Server thread/INFO]: aikiss lost connection: Disconnected
+[07:10:00] [Server thread/INFO]: aikiss left the game
+[07:10:00] [Server thread/INFO]: [voicechat] Disconnecting client aikiss
