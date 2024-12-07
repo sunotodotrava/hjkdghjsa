@@ -705,6 +705,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2024-12-07 21:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-07 04:48:52 +0000"

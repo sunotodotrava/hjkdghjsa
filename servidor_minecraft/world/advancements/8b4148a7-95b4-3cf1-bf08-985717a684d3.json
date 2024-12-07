@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/write_cassette_tape": {
+    "criteria": {
+      "write_cassette_tape": "2024-12-07 21:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-07 19:10:32 +0000"
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2024-12-07 21:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-12-07 05:38:41 +0000"
@@ -482,6 +494,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2024-12-07 21:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-07 19:10:32 +0000"
@@ -527,6 +545,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-07 04:00:52 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2024-12-07 21:15:07 +0000"
     },
     "done": true
   },

@@ -1106,3 +1106,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [07Dec2024 21:16:18.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind has made the advancement [DJ! DJ!]
 [07Dec2024 21:16:37.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
 [07Dec2024 21:16:37.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
+[07Dec2024 21:17:25.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /vanish
+[07Dec2024 21:17:25.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: [Vanishmod] pablorelojero unvanished]
+[07Dec2024 21:17:33.808] [Server thread/INFO] [Console/]: <linkadorigind> no puedo hablaaaaaaaar
+[07Dec2024 21:17:44.807] [Server thread/INFO] [Console/]: <pablorelojero> lo configuraste en la o?
+[07Dec2024 21:17:49.050] [Server thread/INFO] [Console/]: <linkadorigind> si
+[07Dec2024 21:17:57.108] [Server thread/INFO] [Console/]: <linkadorigind> no tengo permiso para hablar me dice
+[07Dec2024 21:18:05.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /op linkadorigind
+[07Dec2024 21:18:05.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Made linkadorigind a server operator]
+[07Dec2024 21:18:12.534] [Server thread/INFO] [Console/]: <pablorelojero> listp
+[07Dec2024 21:18:16.089] [Server thread/INFO] [Console/]: <pablorelojero> si
+[07Dec2024 21:18:56.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp user linkadorigind permission set voicechat.admin true
+[07Dec2024 21:18:56.841] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (pablorelojero) [U] (linkadorigind)
+[07Dec2024 21:18:56.841] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > permission set voicechat.admin true
+[07Dec2024 21:19:01.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp user linkadorigind permission set voicechat.groups
+[07Dec2024 21:19:01.700] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (pablorelojero) [U] (linkadorigind)
+[07Dec2024 21:19:01.700] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > permission set voicechat.groups true
+[07Dec2024 21:20:33.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /deop linkadorigind
+[07Dec2024 21:20:33.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Made linkadorigind no longer a server operator]
+[07Dec2024 21:21:09.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /voicechat test linkadorigind
+[07Dec2024 21:21:09.229] [Server thread/INFO] [voicechat/]: [voicechat] Sent ping 8ea53af2-9c1e-4190-92b4-a0c9c76005c1 attempt 1
+[07Dec2024 21:21:09.401] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Received pong 8ea53af2-9c1e-4190-92b4-a0c9c76005c1
+[07Dec2024 21:23:11.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /op linkadorigind
+[07Dec2024 21:23:11.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Made linkadorigind a server operator]
+[07Dec2024 21:25:01.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp editor
+[07Dec2024 21:25:11.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp trusteditor e579-5561
+[07Dec2024 21:25:32.858] [luckperms-worker-15/INFO] [Console/]: [LP] LOG > (pablorelojero) [G] (default)
+[07Dec2024 21:25:32.858] [luckperms-worker-15/INFO] [Console/]: [LP] LOG > webeditor add voicechat true
+[07Dec2024 21:25:32.861] [luckperms-worker-15/INFO] [Console/]: [LP] LOG > (pablorelojero) [G] (default)
+[07Dec2024 21:25:32.861] [luckperms-worker-15/INFO] [Console/]: [LP] LOG > webeditor add voicechat.listen true
+[07Dec2024 21:25:32.863] [luckperms-worker-15/INFO] [Console/]: [LP] LOG > (pablorelojero) [G] (default)
+[07Dec2024 21:25:32.864] [luckperms-worker-15/INFO] [Console/]: [LP] LOG > webeditor add voicechat.speak true
+[07Dec2024 21:25:43.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /deop linkadorigind
+[07Dec2024 21:25:43.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Made linkadorigind no longer a server operator]
+[07Dec2024 21:26:38.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/6511, l='ServerLevel[world]', x=-270.03, y=64.00, z=1132.81] died, message: 'Cleric was slain by Zombie'
+[07Dec2024 21:26:56.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6513, l='ServerLevel[world]', x=-268.48, y=64.42, z=1155.70] died, message: 'Unemployed was slain by Zombie Villager'
+[07Dec2024 21:27:05.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam save
+[07Dec2024 21:27:08.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam save
+[07Dec2024 21:27:14.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /cam-server start
