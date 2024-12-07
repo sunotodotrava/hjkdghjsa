@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "movingelevators:recipes/movingelevators/button_block": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 21:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-07 05:21:50 +0000"
@@ -679,6 +685,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-07 06:14:54 +0000"
+    },
+    "done": true
+  },
+  "movingelevators:recipes/movingelevators/display_block": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 21:11:13 +0000"
     },
     "done": true
   },

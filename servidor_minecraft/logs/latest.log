@@ -1060,3 +1060,49 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [07Dec2024 21:03:37.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero lost connection: Disconnected
 [07Dec2024 21:03:37.664] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablorelojero
 [07Dec2024 21:03:37.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pablorelojero left the game
+[07Dec2024 21:07:32.795] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player linkadorigind is 0e2dcfa1-9f72-375e-80fb-412cb34b3939
+[07Dec2024 21:07:34.868] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a42884a
+[07Dec2024 21:07:34.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: linkadorigind[/127.252.188.16:42957] logged in with entity id 6065 at (-397.0720179764871, 64.0, 1213.8314124051637)
+[07Dec2024 21:07:34.880] [Server thread/INFO] [Waila/]: Syncing config to linkadorigind (0e2dcfa1-9f72-375e-80fb-412cb34b3939)
+[07Dec2024 21:07:36.284] [Server thread/INFO] [ping-wheel/]: Channel update: linkadorigind -> "rawr"
+[07Dec2024 21:07:36.323] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of linkadorigind (18)
+[07Dec2024 21:07:36.324] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to linkadorigind
+[07Dec2024 21:07:38.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0e2dcfa1-9f72-375e-80fb-412cb34b3939
+[07Dec2024 21:07:39.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0e2dcfa1-9f72-375e-80fb-412cb34b3939
+[07Dec2024 21:07:39.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player linkadorigind (0e2dcfa1-9f72-375e-80fb-412cb34b3939) successfully connected to voice chat
+[07Dec2024 21:09:42.988] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player pablorelojero is 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 21:09:44.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@36e3bf53
+[07Dec2024 21:09:44.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablorelojero[/127.67.114.219:40227] logged in with entity id 6688 at (-399.42801334185765, 65.0, 1210.5931285944073)
+[07Dec2024 21:09:44.502] [Server thread/INFO] [Waila/]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
+[07Dec2024 21:09:45.264] [Server thread/INFO] [ping-wheel/]: Channel update: pablorelojero -> "rawr"
+[07Dec2024 21:09:45.284] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablorelojero (18)
+[07Dec2024 21:09:45.285] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablorelojero
+[07Dec2024 21:09:47.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 21:09:48.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[07Dec2024 21:09:48.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[07Dec2024 21:09:51.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /vanish
+[07Dec2024 21:09:51.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: [Vanishmod] pablorelojero vanished]
+[07Dec2024 21:10:16.390] [Server thread/INFO] [Console/]: <pablorelojero> te deja hablar ahora?
+[07Dec2024 21:10:24.786] [Server thread/INFO] [Console/]: <linkadorigind> no
+[07Dec2024 21:10:24.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind was slain by Zombie
+[07Dec2024 21:10:35.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind pablorelojero
+[07Dec2024 21:10:35.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported linkadorigind to pablorelojero]
+[07Dec2024 21:11:17.288] [Server thread/WARN] [Arclight/]: Unhandled block break event
+[07Dec2024 21:11:45.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /lp user linkadorigind permission set voicechat true
+[07Dec2024 21:11:45.492] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (pablorelojero) [U] (linkadorigind)
+[07Dec2024 21:11:45.492] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > permission set voicechat true
+[07Dec2024 21:11:57.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /voicechat join
+[07Dec2024 21:12:04.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /voicechat invite linkadorigind
+[07Dec2024 21:12:12.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamerule sendCommandFeedback true
+[07Dec2024 21:12:12.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Gamerule sendCommandFeedback is now set to: true]
+[07Dec2024 21:12:15.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6244, l='ServerLevel[world]', x=-275.70, y=65.42, z=1132.88] died, message: 'Unemployed was slain by Zombie'
+[07Dec2024 21:12:18.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /voicechat invite linkadorigind
+[07Dec2024 21:12:27.498] [Server thread/INFO] [Console/]: <pablorelojero> acepta eso
+[07Dec2024 21:12:35.426] [Server thread/INFO] [Console/]: <linkadorigind> que osa?
+[07Dec2024 21:15:03.615] [Server thread/WARN] [Arclight/]: Unhandled block break event
+[07Dec2024 21:15:07.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pablorelojero has made the advancement [Music register]
+[07Dec2024 21:15:46.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pablorelojero has made the advancement [Writing...]
+[07Dec2024 21:16:17.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pablorelojero has made the advancement [DJ! DJ!]
+[07Dec2024 21:16:18.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind has made the advancement [DJ! DJ!]
+[07Dec2024 21:16:37.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
+[07Dec2024 21:16:37.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
