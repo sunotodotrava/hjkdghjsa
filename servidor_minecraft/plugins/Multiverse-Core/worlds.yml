@@ -41,54 +41,7 @@ worlds:
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
-    environment: IMMERSIVE_PORTALS_ALTERNATE5
-    seed: '-141644462532599190'
-    generator: 'null'
-    playerLimit: '-1'
-    allowFlight: 'true'
-  world:
-    ==: MVWorld
-    hidden: 'false'
-    alias: ''
-    color: WHITE
-    style: NORMAL
-    pvp: 'true'
-    scale: '1.0'
-    respawnWorld: ''
-    allowWeather: 'true'
-    difficulty: HARD
-    spawning:
-      ==: MVSpawnSettings
-      animals:
-        ==: MVSpawnSubSettings
-        spawn: 'true'
-        spawnrate: '-1'
-        exceptions: []
-      monsters:
-        ==: MVSpawnSubSettings
-        spawn: 'true'
-        spawnrate: '-1'
-        exceptions: []
-    entryfee:
-      ==: MVEntryFee
-      amount: '0.0'
-    hunger: 'true'
-    autoHeal: 'true'
-    adjustSpawn: 'true'
-    portalForm: ALL
-    gameMode: SURVIVAL
-    keepSpawnInMemory: 'true'
-    spawnLocation:
-      ==: MVSpawnLocation
-      x: 64.0
-      y: 77.0
-      z: -160.0
-      pitch: 0.0
-      yaw: 0.0
-    autoLoad: 'true'
-    bedRespawn: 'true'
-    worldBlacklist: []
-    environment: NORMAL
+    environment: 'null'
     seed: '-141644462532599190'
     generator: 'null'
     playerLimit: '-1'
@@ -130,6 +83,53 @@ worlds:
       x: 0.0
       y: -60.0
       z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
+    environment: NORMAL
+    seed: '-141644462532599190'
+    generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
+  world:
+    ==: MVWorld
+    hidden: 'false'
+    alias: ''
+    color: WHITE
+    style: NORMAL
+    pvp: 'true'
+    scale: '1.0'
+    respawnWorld: ''
+    allowWeather: 'true'
+    difficulty: HARD
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        spawnrate: '-1'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        spawnrate: '-1'
+        exceptions: []
+    entryfee:
+      ==: MVEntryFee
+      amount: '0.0'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
+      x: 64.0
+      y: 77.0
+      z: -160.0
       pitch: 0.0
       yaw: 0.0
     autoLoad: 'true'
@@ -182,7 +182,7 @@ worlds:
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
-    environment: IMMERSIVE_PORTALS_ALTERNATE3
+    environment: 'null'
     seed: '-141644462532599190'
     generator: 'null'
     playerLimit: '-1'
@@ -229,7 +229,7 @@ worlds:
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
-    environment: IMMERSIVE_PORTALS_ALTERNATE4
+    environment: 'null'
     seed: '-141644462532599190'
     generator: 'null'
     playerLimit: '-1'
@@ -276,7 +276,54 @@ worlds:
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
-    environment: IMMERSIVE_PORTALS_ALTERNATE1
+    environment: 'null'
+    seed: '-141644462532599190'
+    generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
+  world/immersive_portals/alternate2:
+    ==: MVWorld
+    hidden: 'false'
+    alias: ''
+    color: WHITE
+    style: NORMAL
+    pvp: 'true'
+    scale: '1.0'
+    respawnWorld: ''
+    allowWeather: 'true'
+    difficulty: HARD
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        spawnrate: '-1'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        spawnrate: '-1'
+        exceptions: []
+    entryfee:
+      ==: MVEntryFee
+      amount: '0.0'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
+      x: 64.0
+      y: 77.0
+      z: -160.0
+      pitch: 0.0
+      yaw: 0.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
+    environment: 'null'
     seed: '-141644462532599190'
     generator: 'null'
     playerLimit: '-1'
@@ -324,53 +371,6 @@ worlds:
     bedRespawn: 'true'
     worldBlacklist: []
     environment: THE_END
-    seed: '-141644462532599190'
-    generator: 'null'
-    playerLimit: '-1'
-    allowFlight: 'true'
-  world/immersive_portals/alternate2:
-    ==: MVWorld
-    hidden: 'false'
-    alias: ''
-    color: WHITE
-    style: NORMAL
-    pvp: 'true'
-    scale: '1.0'
-    respawnWorld: ''
-    allowWeather: 'true'
-    difficulty: HARD
-    spawning:
-      ==: MVSpawnSettings
-      animals:
-        ==: MVSpawnSubSettings
-        spawn: 'true'
-        spawnrate: '-1'
-        exceptions: []
-      monsters:
-        ==: MVSpawnSubSettings
-        spawn: 'true'
-        spawnrate: '-1'
-        exceptions: []
-    entryfee:
-      ==: MVEntryFee
-      amount: '0.0'
-    hunger: 'true'
-    autoHeal: 'true'
-    adjustSpawn: 'true'
-    portalForm: ALL
-    gameMode: SURVIVAL
-    keepSpawnInMemory: 'true'
-    spawnLocation:
-      ==: MVSpawnLocation
-      x: 64.0
-      y: 77.0
-      z: -160.0
-      pitch: 0.0
-      yaw: 0.0
-    autoLoad: 'true'
-    bedRespawn: 'true'
-    worldBlacklist: []
-    environment: IMMERSIVE_PORTALS_ALTERNATE2
     seed: '-141644462532599190'
     generator: 'null'
     playerLimit: '-1'
