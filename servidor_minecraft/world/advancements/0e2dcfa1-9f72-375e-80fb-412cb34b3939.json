@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-08 18:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-07 05:36:18 +0000"
@@ -1416,6 +1422,7 @@
       "spider_eye": "2024-12-07 22:47:26 +0000",
       "bread": "2024-12-07 05:21:42 +0000",
       "rotten_flesh": "2024-12-07 05:19:02 +0000",
+      "cooked_chicken": "2024-12-08 18:33:25 +0000",
       "carrot": "2024-12-07 22:31:24 +0000"
     },
     "done": false
@@ -1888,6 +1895,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-08 18:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-07 04:22:49 +0000"
@@ -1916,6 +1929,7 @@
     "criteria": {
       "beetroot": "2024-12-08 01:22:22 +0000",
       "potato": "2024-12-07 20:36:58 +0000",
+      "red_mushroom": "2024-12-08 18:21:38 +0000",
       "wheat": "2024-12-07 20:36:45 +0000",
       "carrot": "2024-12-07 20:37:09 +0000"
     },
