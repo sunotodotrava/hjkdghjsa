@@ -1538,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-08 19:06:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2024-12-08 03:05:32 +0000"

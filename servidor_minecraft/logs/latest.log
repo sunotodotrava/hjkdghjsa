@@ -3361,3 +3361,508 @@ Caused by: java.lang.NoSuchFieldError: NOTE_PLING
 	... 21 more
 [08Dec2024 18:55:45.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp aikiss
 [08Dec2024 18:55:45.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to aikiss]
+[08Dec2024 19:05:28.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /back
+[08Dec2024 19:05:52.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /xp set aikiss 8 levels
+[08Dec2024 19:05:52.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Set 8 experience levels on aikiss]
+[08Dec2024 19:06:02.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /scoreboard players reset aikiss
+[08Dec2024 19:06:02.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Reset all scores for aikiss]
+[08Dec2024 19:06:46.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /sit
+[08Dec2024 19:07:30.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /sit aikiss
+[08Dec2024 19:07:35.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /sit aikiss
+[08Dec2024 19:07:44.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /sit aikiss
+[08Dec2024 19:11:03.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamerule showDeathMessages
+[08Dec2024 19:11:06.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamerule showDeathMessages false
+[08Dec2024 19:11:06.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Gamerule showDeathMessages is now set to: false]
+[08Dec2024 19:11:08.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamerule showDeathMessages true
+[08Dec2024 19:11:08.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Gamerule showDeathMessages is now set to: true]
+[08Dec2024 19:11:19.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind has made the advancement [Ice Bucket Challenge]
+[08Dec2024 19:11:28.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
+[08Dec2024 19:11:28.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
+[08Dec2024 19:11:59.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvcreate asd
+[08Dec2024 19:12:07.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvcreate asd normal -t
+[08Dec2024 19:12:07.076] [Server thread/INFO] [Console/]: pablorelojero: Starting creation of world 'asd'...
+[08Dec2024 19:12:07.077] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'asd' - Env: NORMAL - Type: NORMAL
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: -------- World Settings For [asd] --------
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Dec2024 19:12:07.221] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Dec2024 19:12:07.222] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Dec2024 19:12:13.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:asd
+[08Dec2024 19:12:13.313] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 19:12:13.604] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 19:12:14.104] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[08Dec2024 19:12:14.612] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[08Dec2024 19:12:15.104] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[08Dec2024 19:12:15.609] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.335334242193028,1.495200877005928,-5.553559272636562
+[08Dec2024 19:12:21.813] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:21.814] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Dec2024 19:12:22.123] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[08Dec2024 19:12:22.623] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[08Dec2024 19:12:23.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.338908820875417,1.0,-5.549918319045901
+[08Dec2024 19:12:23.105] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[08Dec2024 19:12:23.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.330736469705755,1.0,-5.497021121699277
+[08Dec2024 19:12:23.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.336858125920173,1.0,-5.61459708865948
+[08Dec2024 19:12:23.631] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[08Dec2024 19:12:23.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.336858125920173,1.0,-5.570630996607974
+[08Dec2024 19:12:23.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.336858125920173,1.0,-5.570630996607974
+[08Dec2024 19:12:24.109] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[08Dec2024 19:12:24.607] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[08Dec2024 19:12:25.109] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[08Dec2024 19:12:25.616] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[08Dec2024 19:12:26.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.300137069814468,1.0,-5.539784688701047
+[08Dec2024 19:12:26.104] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[08Dec2024 19:12:26.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.302933001309441,1.0,-5.54036819506689
+[08Dec2024 19:12:26.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.300127901964174,1.0,-5.539782638420434
+[08Dec2024 19:12:26.618] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[08Dec2024 19:12:27.111] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[08Dec2024 19:12:27.633] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[08Dec2024 19:12:28.111] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[08Dec2024 19:12:28.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.348839890328861,1.0,-5.538278351602685
+[08Dec2024 19:12:28.605] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[08Dec2024 19:12:28.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.347465378682102,1.0,-5.538665977310188
+[08Dec2024 19:12:28.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.347465378682102,1.0,-5.538665977310188
+[08Dec2024 19:12:29.116] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[08Dec2024 19:12:29.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.346730642214254,1.0,-5.538864346343189
+[08Dec2024 19:12:29.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.347465378682102,1.0,-5.538665977310188
+[08Dec2024 19:12:29.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.347465378682102,1.0,-5.538665977310188
+[08Dec2024 19:12:29.627] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[08Dec2024 19:12:29.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.34730223826034,1.0,-5.53871055193008
+[08Dec2024 19:12:29.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.347465378682102,1.0,-5.538665977310188
+[08Dec2024 19:12:30.131] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[08Dec2024 19:12:30.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.347465378682102,1.0,-5.538665977310188
+[08Dec2024 19:12:30.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.347465378682102,1.0,-5.538665977310188
+[08Dec2024 19:12:30.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.34395078731444,1.0,-5.539559958082464
+[08Dec2024 19:12:30.606] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[08Dec2024 19:12:30.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.370298810949066,1.0,-5.529170847279488
+[08Dec2024 19:12:31.104] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[08Dec2024 19:12:31.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.413400108497399,1.0,-5.40997328442279
+[08Dec2024 19:12:31.630] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[08Dec2024 19:12:32.111] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[08Dec2024 19:12:32.622] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
+[08Dec2024 19:12:33.111] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[08Dec2024 19:12:33.611] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[08Dec2024 19:12:34.113] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
+[08Dec2024 19:12:34.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.041773200844887,2.176759275064242,-5.701940526892599
+[08Dec2024 19:12:34.625] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[08Dec2024 19:12:35.114] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[08Dec2024 19:12:35.614] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[08Dec2024 19:12:36.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 8.479530618921046,1.0,-5.268539059786804
+[08Dec2024 19:12:36.114] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
+[08Dec2024 19:12:36.612] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[08Dec2024 19:12:37.112] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[08Dec2024 19:12:37.605] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[08Dec2024 19:12:38.104] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[08Dec2024 19:12:38.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 6.962572313282408,1.4199999868869781,-7.702883527416702
+[08Dec2024 19:12:38.610] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[08Dec2024 19:12:38.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 6.831667241075138,1.0,-7.32046531192907
+[08Dec2024 19:12:38.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 6.8600483484825645,1.0,-7.393939984526696
+[08Dec2024 19:12:39.106] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[08Dec2024 19:12:39.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 6.8600483484825645,1.0,-7.393939984526696
+[08Dec2024 19:12:39.608] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[08Dec2024 19:12:40.104] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[08Dec2024 19:12:40.612] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[08Dec2024 19:12:40.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 5.105152456170742,1.0,-8.713922634247297
+[08Dec2024 19:12:40.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 4.915061322113104,1.0,-8.71979324725055
+[08Dec2024 19:12:41.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 4.914011506218969,1.0,-8.72011930264216
+[08Dec2024 19:12:41.111] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[08Dec2024 19:12:42.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 5.472483737178777,1.0,-8.403068744125449
+[08Dec2024 19:12:42.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 5.378715139959866,1.0,-8.433796623908506
+[08Dec2024 19:12:42.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 5.378715139959866,1.0,-8.433796623908506
+[08Dec2024 19:12:42.997] [Server thread/INFO] [Console/]: <linkadorigind> se laguea tio
+[08Dec2024 19:12:43.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 5.378741437291637,1.0,-8.43387699082075
+[08Dec2024 19:12:43.178] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[08Dec2024 19:12:43.178] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[08Dec2024 19:12:43.178] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[08Dec2024 19:12:43.178] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[08Dec2024 19:12:43.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss moved too quickly! 5.379896323577043,1.0,-8.43766974423022
+[08Dec2024 19:12:43.617] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[08Dec2024 19:12:44.109] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[08Dec2024 19:12:44.162] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 31059 ms
+[08Dec2024 19:12:44.180] [Server thread/INFO] [Console/]: pablorelojero: Complete!
+[08Dec2024 19:12:44.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31077ms or 621 ticks behind
+[08Dec2024 19:12:51.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvgamerule doMobSpawning false asd
+[08Dec2024 19:13:15.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /multiverse-portals:mvpcreate asd
+[08Dec2024 19:13:21.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind has made the advancement [Who is Cutting Onions?]
+[08Dec2024 19:14:05.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /multiverse-portals:mvpselect
+[08Dec2024 19:14:22.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /multiverse-portals:mvpcreate
+[08Dec2024 19:14:37.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /multiverse-portals:mvpcreate asd
+[08Dec2024 19:14:54.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /multiverse-portals:mvpm
+[08Dec2024 19:14:57.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /multiverse-portals:mvpm asd
+[08Dec2024 19:15:10.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpremove asd
+[08Dec2024 19:15:15.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill
+[08Dec2024 19:15:15.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Killed pablorelojero]
+[08Dec2024 19:15:33.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /scoreboard players reset pablorelojero Muertes
+[08Dec2024 19:15:33.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Reset [Muertes] for pablorelojero]
+[08Dec2024 19:15:48.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /setworldspawn
+[08Dec2024 19:15:48.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Set the world spawn point to -310, 63, 1013 [0.0]]
+[08Dec2024 19:16:09.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpc
+[08Dec2024 19:16:21.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpc portal asd
+[08Dec2024 19:16:49.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpr portal
+[08Dec2024 19:16:53.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpc portal asd
+[08Dec2024 19:17:23.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpmodify portal
+[08Dec2024 19:17:26.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpmodify
+[08Dec2024 19:20:36.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpselect portal
+[08Dec2024 19:20:45.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpurge portal
+[08Dec2024 19:20:57.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvtp asd
+[08Dec2024 19:21:26.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvdelete asd
+[08Dec2024 19:21:33.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mv confirm
+[08Dec2024 19:21:33.728] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'asd' was unloaded from Multiverse.
+[08Dec2024 19:21:33.832] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'asd' was unloaded from Bukkit.
+[08Dec2024 19:21:33.832] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'asd' was removed from config.yml
+[08Dec2024 19:21:34.018] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'asd' was DELETED.
+[08Dec2024 19:22:03.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvcreate flatroom normal -t -ft
+[08Dec2024 19:22:17.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvcreate asd flat
+[08Dec2024 19:22:34.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvcreate asd normal flat
+[08Dec2024 19:22:34.677] [Server thread/INFO] [Console/]: pablorelojero: Starting creation of world 'asd'...
+[08Dec2024 19:22:34.677] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'asd' - Env: NORMAL - Type: NORMAL
+[08Dec2024 19:22:34.800] [Server thread/INFO] [Minecraft/]: -------- World Settings For [asd] --------
+[08Dec2024 19:22:34.800] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[08Dec2024 19:22:34.801] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Dec2024 19:22:34.801] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Dec2024 19:22:34.801] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Dec2024 19:22:34.802] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Dec2024 19:22:34.802] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Dec2024 19:22:34.802] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Dec2024 19:22:34.803] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Dec2024 19:22:34.803] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Dec2024 19:22:34.803] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Dec2024 19:22:34.804] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Dec2024 19:22:34.804] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Dec2024 19:22:34.804] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Dec2024 19:22:34.805] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Dec2024 19:22:34.805] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Dec2024 19:22:34.806] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Dec2024 19:22:34.806] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Dec2024 19:22:34.807] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Dec2024 19:22:34.807] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Dec2024 19:22:34.807] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Dec2024 19:22:34.808] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Dec2024 19:22:34.808] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Dec2024 19:22:34.809] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08Dec2024 19:22:34.809] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Dec2024 19:22:34.809] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Dec2024 19:22:34.810] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Dec2024 19:22:34.810] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Dec2024 19:22:34.811] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Dec2024 19:22:34.811] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Dec2024 19:22:34.812] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Dec2024 19:22:34.812] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Dec2024 19:22:34.813] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Dec2024 19:22:40.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:asd
+[08Dec2024 19:22:40.796] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 19:22:41.102] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 19:22:41.587] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 19:22:42.088] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[08Dec2024 19:22:42.605] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[08Dec2024 19:22:43.095] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[08Dec2024 19:22:43.588] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[08Dec2024 19:22:44.102] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[08Dec2024 19:22:44.587] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[08Dec2024 19:22:45.101] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[08Dec2024 19:22:45.587] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[08Dec2024 19:22:46.088] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[08Dec2024 19:22:46.587] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[08Dec2024 19:22:47.091] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[08Dec2024 19:22:47.588] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[08Dec2024 19:22:48.094] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[08Dec2024 19:22:48.588] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[08Dec2024 19:22:49.090] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[08Dec2024 19:22:49.606] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[08Dec2024 19:22:50.101] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[08Dec2024 19:22:50.612] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[08Dec2024 19:22:51.087] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[08Dec2024 19:22:51.636] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[08Dec2024 19:22:52.095] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[08Dec2024 19:22:52.626] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[08Dec2024 19:22:53.086] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[08Dec2024 19:22:53.601] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[08Dec2024 19:22:54.086] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[08Dec2024 19:22:54.586] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[08Dec2024 19:22:55.087] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
+[08Dec2024 19:22:55.591] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[08Dec2024 19:22:56.087] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[08Dec2024 19:22:56.601] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[08Dec2024 19:22:57.086] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[08Dec2024 19:22:57.594] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[08Dec2024 19:22:58.093] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[08Dec2024 19:22:58.591] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[08Dec2024 19:22:59.095] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[08Dec2024 19:22:59.608] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[08Dec2024 19:23:00.090] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[08Dec2024 19:23:00.590] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[08Dec2024 19:23:01.093] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[08Dec2024 19:23:01.611] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[08Dec2024 19:23:02.090] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[08Dec2024 19:23:02.591] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[08Dec2024 19:23:03.094] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[08Dec2024 19:23:03.598] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[08Dec2024 19:23:04.087] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[08Dec2024 19:23:04.610] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[08Dec2024 19:23:05.095] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[08Dec2024 19:23:05.597] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[08Dec2024 19:23:05.925] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 25340 ms
+[08Dec2024 19:23:05.933] [Server thread/INFO] [Console/]: pablorelojero: Complete!
+[08Dec2024 19:23:05.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25348ms or 506 ticks behind
+[08Dec2024 19:23:06.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss lost connection: Disconnected
+[08Dec2024 19:23:06.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aikiss
+[08Dec2024 19:23:06.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aikiss left the game
+[08Dec2024 19:23:06.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero lost connection: Disconnected
+[08Dec2024 19:23:06.057] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablorelojero
+[08Dec2024 19:23:06.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pablorelojero left the game
+[08Dec2024 19:23:20.773] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player pablorelojero is 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 19:23:22.098] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player aikiss is edccfff7-5086-36de-9a88-aaa5c61723a2
+[08Dec2024 19:23:22.196] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17a9bddb
+[08Dec2024 19:23:22.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablorelojero[/127.67.114.219:35169] logged in with entity id 38212 at (-328.4379234746544, 63.0, 1029.26614159003)
+[08Dec2024 19:23:22.230] [Server thread/INFO] [Waila/]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
+[08Dec2024 19:23:22.450] [Server thread/INFO] [ping-wheel/]: Channel update: pablorelojero -> "rawr"
+[08Dec2024 19:23:22.451] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablorelojero (18)
+[08Dec2024 19:23:22.451] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablorelojero
+[08Dec2024 19:23:23.752] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7125fb55
+[08Dec2024 19:23:23.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aikiss[/127.89.79.97:40991] logged in with entity id 38344 at (-359.2728603700916, 68.0, 914.2873637211648)
+[08Dec2024 19:23:23.786] [Server thread/INFO] [Waila/]: Syncing config to aikiss (edccfff7-5086-36de-9a88-aaa5c61723a2)
+[08Dec2024 19:23:24.078] [Server thread/INFO] [ping-wheel/]: Channel update: aikiss -> "rawr"
+[08Dec2024 19:23:24.078] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aikiss (18)
+[08Dec2024 19:23:24.079] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aikiss
+[08Dec2024 19:23:24.797] [Server thread/INFO] [Console/]: <linkadorigind> xd
+[08Dec2024 19:23:25.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 19:23:26.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player edccfff7-5086-36de-9a88-aaa5c61723a2
+[08Dec2024 19:23:26.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 19:23:26.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[08Dec2024 19:23:28.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player edccfff7-5086-36de-9a88-aaa5c61723a2
+[08Dec2024 19:23:28.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aikiss (edccfff7-5086-36de-9a88-aaa5c61723a2) successfully connected to voice chat
+[08Dec2024 19:23:38.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvtp asd
+[08Dec2024 19:23:54.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvdelete asd
+[08Dec2024 19:24:01.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mv confirm
+[08Dec2024 19:24:01.114] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'asd' was unloaded from Multiverse.
+[08Dec2024 19:24:01.347] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'asd' was unloaded from Bukkit.
+[08Dec2024 19:24:01.347] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'asd' was removed from config.yml
+[08Dec2024 19:24:01.356] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'asd' was DELETED.
+[08Dec2024 19:24:09.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvcreate
+[08Dec2024 19:24:24.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mv create asd normal -t flat
+[08Dec2024 19:24:24.762] [Server thread/INFO] [Console/]: pablorelojero: Starting creation of world 'asd'...
+[08Dec2024 19:24:24.762] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'asd' - Env: NORMAL - Type: FLAT
+[08Dec2024 19:24:24.768] [Server thread/ERROR] [net.minecraft.world.level.levelgen.WorldGenSettings/]: No key layers in MapLike[{}]; Not a registry ops
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: -------- World Settings For [asd] --------
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08Dec2024 19:24:24.770] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Dec2024 19:24:24.771] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Dec2024 19:24:24.771] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Dec2024 19:24:24.771] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Dec2024 19:24:24.771] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Dec2024 19:24:24.771] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Dec2024 19:24:24.771] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Dec2024 19:24:24.771] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Dec2024 19:24:24.771] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Dec2024 19:24:24.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:asd
+[08Dec2024 19:24:25.060] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 19:24:25.439] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[08Dec2024 19:24:25.868] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[08Dec2024 19:24:26.373] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[08Dec2024 19:24:26.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.42395800645022,1.4199999868869781,-3.4487052209219655
+[08Dec2024 19:24:26.930] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[08Dec2024 19:24:27.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.536790028353607,1.0,-3.4789659621814053
+[08Dec2024 19:24:27.374] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[08Dec2024 19:24:27.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.427124314928278,1.0,-3.4284091005066557
+[08Dec2024 19:24:27.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.427066003424443,1.0,-3.4285435723475075
+[08Dec2024 19:24:27.877] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[08Dec2024 19:24:28.473] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[08Dec2024 19:24:28.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.513495273365606,1.0,-2.9986110865266937
+[08Dec2024 19:24:28.875] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[08Dec2024 19:24:29.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.5089520510096,1.0,-3.007085435079148
+[08Dec2024 19:24:29.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.520713408199072,1.0,-2.9851472968011876
+[08Dec2024 19:24:29.381] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[08Dec2024 19:24:29.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.520713408199072,1.0,-2.9851472968011876
+[08Dec2024 19:24:30.220] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
+[08Dec2024 19:24:30.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.343693878235399,1.0,-3.4756647837380115
+[08Dec2024 19:24:30.371] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[08Dec2024 19:24:30.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind moved too quickly! -9.28526517287537,1.0,-3.6230070368765155
+[08Dec2024 19:24:30.802] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5935 ms
+[08Dec2024 19:24:30.807] [Server thread/INFO] [Console/]: pablorelojero: Complete!
+[08Dec2024 19:24:30.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5940ms or 118 ticks behind
+[08Dec2024 19:24:37.560] [Server thread/INFO] [Console/]: <linkadorigind> que andan haciendo?
+[08Dec2024 19:24:37.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvtp asd
+[08Dec2024 19:25:09.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvgamerule doMobSpawning false asd
+[08Dec2024 19:25:21.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill @e[type=slime]
+[08Dec2024 19:25:21.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Killed 55 entities]
+[08Dec2024 19:25:23.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill @e[type=slime]
+[08Dec2024 19:25:23.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Killed 37 entities]
+[08Dec2024 19:25:24.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill @e[type=slime]
+[08Dec2024 19:25:24.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Killed 69 entities]
+[08Dec2024 19:25:27.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill @e[type=slime]
+[08Dec2024 19:25:27.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Killed 166 entities]
+[08Dec2024 19:25:29.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill @e[type=slime]
+[08Dec2024 19:25:29.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Killed 2 entities]
+[08Dec2024 19:25:30.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill @e[type=slime]
+[08Dec2024 19:25:31.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill @e[type=slime]
+[08Dec2024 19:25:32.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /kill @e[type=slime]
+[08Dec2024 19:25:41.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamemode creative
+[08Dec2024 19:25:41.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Set own game mode to Creative Mode]
+[08Dec2024 19:25:59.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpcreate portal world
+[08Dec2024 19:26:12.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpcreate portalasd world
+[08Dec2024 19:26:25.609] [Server thread/INFO] [Console/]: <aikiss> no tengo idea q ta haciendo pablo
+[08Dec2024 19:26:26.797] [Server thread/INFO] [Console/]: <aikiss> asjdas
+[08Dec2024 19:27:04.790] [Server thread/INFO] [Console/]: <linkadorigind> casa de bruja tia
+[08Dec2024 19:27:20.138] [Server thread/INFO] [Console/]: <aikiss> eee
+[08Dec2024 19:27:37.999] [Server thread/INFO] [Console/]: <linkadorigind> encontre la casa de la bruja
+[08Dec2024 19:27:43.338] [Server thread/INFO] [Console/]: <aikiss> AAAA
+[08Dec2024 19:27:45.734] [Server thread/INFO] [Console/]: <aikiss> GODD
+[08Dec2024 19:28:41.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpm dest p:portal
+[08Dec2024 19:29:12.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamemode creative
+[08Dec2024 19:29:12.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Set own game mode to Creative Mode]
+[08Dec2024 19:29:35.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /spawn
+[08Dec2024 19:29:51.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamemode spectator
+[08Dec2024 19:29:51.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Set own game mode to Spectator Mode]
+[08Dec2024 19:30:17.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind has reached the goal [Plant Food]
+[08Dec2024 19:30:19.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp linkadorigind
+[08Dec2024 19:30:19.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to linkadorigind]
+[08Dec2024 19:30:25.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /tp aikiss
+[08Dec2024 19:30:25.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Teleported pablorelojero to aikiss]
+[08Dec2024 19:30:38.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamemode creative
+[08Dec2024 19:30:38.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Set own game mode to Creative Mode]
+[08Dec2024 19:30:45.866] [Server thread/INFO] [Console/]: <linkadorigind> aaa es de un mod
+[08Dec2024 19:30:45.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpselect portal
+[08Dec2024 19:30:58.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /mvpm dest p:portalasd
+[08Dec2024 19:31:24.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamemode creative
+[08Dec2024 19:31:24.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Set own game mode to Creative Mode]
+[08Dec2024 19:31:42.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /gamemode creative
+[08Dec2024 19:31:42.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pablorelojero: Set own game mode to Creative Mode]
+[08Dec2024 19:32:00.181] [Server thread/INFO] [Console/]: <linkadorigind> che tengo muchos aldeanos
+[08Dec2024 19:32:06.679] [Server thread/INFO] [Console/]: <linkadorigind> god para la granja
+[08Dec2024 19:32:15.632] [Server thread/INFO] [Console/]: <aikiss> es esaaaa
+[08Dec2024 19:32:56.278] [Server thread/INFO] [Console/]: <aikiss> hacemo una granja?
+[08Dec2024 19:32:57.511] [Server thread/INFO] [Console/]: <linkadorigind> tengo 2 armeros y un fletcher
+[08Dec2024 19:33:03.150] [Server thread/INFO] [Console/]: <linkadorigind> dale
+[08Dec2024 19:33:06.943] [Server thread/INFO] [Console/]: <aikiss> voi
+[08Dec2024 19:33:15.146] [Server thread/INFO] [Console/]: <linkadorigind> para despues como volvemos?
+[08Dec2024 19:33:21.206] [Server thread/INFO] [Console/]: <linkadorigind> estoy re lejos
+[08Dec2024 19:33:22.745] [Server thread/INFO] [Console/]: <aikiss> u mal
+[08Dec2024 19:33:29.951] [Server thread/INFO] [Console/]: <aikiss> pablo pone lo de /home dsjad
+[08Dec2024 19:33:37.760] [Server thread/INFO] [Console/]: <linkadorigind> mal xd
+[08Dec2024 19:33:40.887] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8b4148a7-95b4-3cf1-bf08-985717a684d3 timed out
+[08Dec2024 19:33:40.887] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pablorelojero
+[08Dec2024 19:33:40.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pablorelojero
+[08Dec2024 19:33:53.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero lost connection: Timed out
+[08Dec2024 19:33:53.138] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablorelojero
+[08Dec2024 19:33:53.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pablorelojero left the game.
+[08Dec2024 19:33:53.194] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 19:34:33.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind has made the advancement [Crops of the Wild]
+[08Dec2024 19:34:43.446] [Server thread/INFO] [Console/]: <aikiss> bueno marcalo y vemo como hacemo
+[08Dec2024 19:34:59.064] [Server thread/INFO] [Console/]: <linkadorigind> y si hacemos que cojan?
+[08Dec2024 19:35:09.728] [Server thread/INFO] [Console/]: <aikiss> es la idea
+[08Dec2024 19:35:11.779] [Server thread/INFO] [Console/]: <aikiss> pero aca
+[08Dec2024 19:35:20.378] [Server thread/INFO] [Console/]: <aikiss> onda en la aldea de las casa
+[08Dec2024 19:35:20.629] [Server thread/INFO] [Console/]: <linkadorigind> llevo uno y agarramos uno de la aldea de mi castillo
+[08Dec2024 19:35:21.927] [Server thread/INFO] [Console/]: <aikiss> s
+[08Dec2024 19:35:25.241] [Server thread/INFO] [Console/]: <linkadorigind> hau uno ahi
+[08Dec2024 19:35:28.267] [Server thread/INFO] [Console/]: <aikiss> banko
+[08Dec2024 19:35:31.227] [Server thread/INFO] [Console/]: <aikiss> con el carry on
+[08Dec2024 19:35:43.329] [Server thread/INFO] [Console/]: <linkadorigind> ok tp
+[08Dec2024 19:35:46.380] [Server thread/INFO] [Console/]: <aikiss> oka
+[08Dec2024 19:35:50.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind issued server command: /tpa aikiss
+[08Dec2024 19:35:57.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /tpa accept
+[08Dec2024 19:36:02.789] [Server thread/INFO] [Console/]: <aikiss> no me deja
+[08Dec2024 19:36:08.479] [Server thread/INFO] [Console/]: <linkadorigind> e?
+[08Dec2024 19:36:09.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /tpa accept linkadorigind
+[08Dec2024 19:36:16.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind issued server command: /tpa aikiss
+[08Dec2024 19:36:17.896] [Server thread/INFO] [Console/]: <aikiss> dice q no estas conectado
+[08Dec2024 19:36:23.987] [Server thread/INFO] [Console/]: <linkadorigind> wtf
+[08Dec2024 19:36:26.500] [Server thread/INFO] [Console/]: <linkadorigind> para
+[08Dec2024 19:36:29.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind lost connection: Disconnected
+[08Dec2024 19:36:29.978] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client linkadorigind
+[08Dec2024 19:36:29.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: linkadorigind left the game
+[08Dec2024 19:36:49.100] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player linkadorigind is 0e2dcfa1-9f72-375e-80fb-412cb34b3939
+[08Dec2024 19:36:50.879] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42911613
+[08Dec2024 19:36:50.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: linkadorigind[/127.252.188.16:42013] logged in with entity id 50196 at (-1350.6239702632404, 111.9375, 932.9297865123068)
+[08Dec2024 19:36:50.892] [Server thread/INFO] [Waila/]: Syncing config to linkadorigind (0e2dcfa1-9f72-375e-80fb-412cb34b3939)
+[08Dec2024 19:36:51.485] [Server thread/INFO] [ping-wheel/]: Channel update: linkadorigind -> "rawr"
+[08Dec2024 19:36:51.485] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of linkadorigind (18)
+[08Dec2024 19:36:51.485] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to linkadorigind
+[08Dec2024 19:36:52.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0e2dcfa1-9f72-375e-80fb-412cb34b3939
+[08Dec2024 19:36:53.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0e2dcfa1-9f72-375e-80fb-412cb34b3939
+[08Dec2024 19:36:53.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player linkadorigind (0e2dcfa1-9f72-375e-80fb-412cb34b3939) successfully connected to voice chat
+[08Dec2024 19:37:16.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind issued server command: /tpa aikiss
+[08Dec2024 19:37:18.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /tpa accept
+[08Dec2024 19:37:20.992] [Server thread/INFO] [Console/]: <linkadorigind> ave
+[08Dec2024 19:37:24.483] [Server thread/INFO] [Console/]: <aikiss> no me deja
+[08Dec2024 19:37:27.481] [Server thread/INFO] [Console/]: <aikiss> no se si soi yo
+[08Dec2024 19:37:28.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss lost connection: Disconnected
+[08Dec2024 19:37:28.725] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aikiss
+[08Dec2024 19:37:28.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aikiss left the game
+[08Dec2024 19:37:47.187] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player aikiss is edccfff7-5086-36de-9a88-aaa5c61723a2
+[08Dec2024 19:37:48.827] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6845a533
+[08Dec2024 19:37:48.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aikiss[/127.89.79.97:45079] logged in with entity id 52139 at (-355.51270588612056, 64.0, 924.805793738755)
+[08Dec2024 19:37:48.859] [Server thread/INFO] [Waila/]: Syncing config to aikiss (edccfff7-5086-36de-9a88-aaa5c61723a2)
+[08Dec2024 19:37:49.084] [Server thread/INFO] [ping-wheel/]: Channel update: aikiss -> "rawr"
+[08Dec2024 19:37:49.084] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aikiss (18)
+[08Dec2024 19:37:49.084] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aikiss
+[08Dec2024 19:37:51.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player edccfff7-5086-36de-9a88-aaa5c61723a2
+[08Dec2024 19:37:52.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player edccfff7-5086-36de-9a88-aaa5c61723a2
+[08Dec2024 19:37:52.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aikiss (edccfff7-5086-36de-9a88-aaa5c61723a2) successfully connected to voice chat
+[08Dec2024 19:38:01.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind issued server command: /tpa aikiss
+[08Dec2024 19:38:16.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /tpa linkadorigindaccept
+[08Dec2024 19:38:23.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /tpa accept
+[08Dec2024 19:38:27.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /tpaaccept
+[08Dec2024 19:38:30.251] [Server thread/INFO] [Console/]: <aikiss> no
+[08Dec2024 19:38:37.878] [Server thread/INFO] [Console/]: <linkadorigind> caminare
+[08Dec2024 19:38:39.509] [Server thread/INFO] [Console/]: <aikiss> D:

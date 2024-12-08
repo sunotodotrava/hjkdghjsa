@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-08 19:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 05:12:48 +0000"
@@ -233,9 +239,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-08 19:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 05:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 19:11:47 +0000"
     },
     "done": true
   },
@@ -455,6 +473,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-08 19:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-07 04:23:29 +0000"
@@ -656,6 +680,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-07 20:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-08 19:13:08 +0000"
     },
     "done": true
   },
@@ -1098,6 +1128,7 @@
       "minecraft:beach": "2024-12-07 04:46:05 +0000",
       "minecraft:river": "2024-12-07 04:45:42 +0000",
       "minecraft:snowy_plains": "2024-12-07 05:17:10 +0000",
+      "minecraft:stony_shore": "2024-12-08 19:07:51 +0000",
       "minecraft:snowy_taiga": "2024-12-07 04:15:40 +0000",
       "minecraft:dripstone_caves": "2024-12-08 00:17:46 +0000",
       "minecraft:cold_ocean": "2024-12-07 23:47:31 +0000",
@@ -1583,6 +1614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-08 19:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 05:12:48 +0000"
@@ -1871,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-08 19:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-07 05:20:21 +0000"
@@ -2051,6 +2094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 19:11:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-07 23:05:16 +0000"
@@ -2138,6 +2187,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "beetroot": "2024-12-08 01:22:22 +0000",
+      "sugar_cane": "2024-12-08 18:58:34 +0000",
       "potato": "2024-12-07 20:36:58 +0000",
       "red_mushroom": "2024-12-08 18:21:38 +0000",
       "wheat": "2024-12-07 20:36:45 +0000",
@@ -2247,6 +2297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-08 19:12:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-07 05:36:18 +0000"
@@ -2298,6 +2354,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-07 04:54:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-08 19:34:33 +0000"
     },
     "done": true
   },
@@ -2412,6 +2474,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-07 20:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-08 19:11:19 +0000"
     },
     "done": true
   },
