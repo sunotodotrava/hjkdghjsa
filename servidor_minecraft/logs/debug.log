@@ -9503,3 +9503,336 @@ Caused by: java.lang.NoSuchFieldError: NOTE_PLING
 [08Dec2024 19:38:35.192] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
 [08Dec2024 19:38:37.878] [Server thread/INFO] [Console/]: <linkadorigind> caminare
 [08Dec2024 19:38:39.509] [Server thread/INFO] [Console/]: <aikiss> D:
+[08Dec2024 19:38:42.132] [Server thread/INFO] [Console/]: <aikiss> KDSKDSAKADA
+[08Dec2024 19:38:49.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:38:49.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:38:53.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:38:53.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:39:05.192] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:39:05.192] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:39:19.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:39:19.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:39:23.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:39:23.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:39:35.192] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:39:35.192] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:39:49.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:39:49.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:39:53.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:39:53.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:40:05.192] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:40:05.192] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:40:19.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:40:19.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:40:23.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:40:23.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:40:35.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:40:35.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:40:49.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:40:49.045] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:40:53.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:40:53.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:40:53.313] [Server thread/INFO] [Console/]: <linkadorigind> aikis
+[08Dec2024 19:40:57.050] [Server thread/INFO] [Console/]: <aikiss> q
+[08Dec2024 19:40:58.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:40:58.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:40:58.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save asd
+[08Dec2024 19:40:58.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete asd
+[08Dec2024 19:40:58.631] [Server thread/INFO] [Console/]: <linkadorigind> otra aldea
+[08Dec2024 19:41:04.228] [Server thread/INFO] [Console/]: <linkadorigind> veni y secuestrate uno
+[08Dec2024 19:41:05.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:41:05.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:41:05.680] [Server thread/INFO] [Console/]: <aikiss> oaaaaaa
+[08Dec2024 19:41:09.990] [Server thread/INFO] [Console/]: <aikiss> upa
+[08Dec2024 19:41:15.952] [Server thread/INFO] [Console/]: <aikiss> bueno banka q duermo
+[08Dec2024 19:41:19.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:41:19.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:41:23.073] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:41:23.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:41:24.184] [Server thread/INFO] [Console/]: <linkadorigind> traete cama
+[08Dec2024 19:41:30.082] [Server thread/INFO] [Console/]: <aikiss> oko
+[08Dec2024 19:41:35.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:41:35.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:41:49.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:41:49.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:41:53.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:41:53.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:42:01.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /tpa linkadorigind
+[08Dec2024 19:42:05.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:42:05.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:42:08.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind issued server command: /tpaccept
+[08Dec2024 19:42:19.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:42:19.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:42:23.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:42:23.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:42:35.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:42:35.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:42:49.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:42:49.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:42:53.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:42:53.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:43:05.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:43:05.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:43:19.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:43:19.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:43:23.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:43:23.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:43:35.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:43:35.193] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:43:49.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:43:49.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:43:53.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:43:53.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:44:05.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:44:05.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:44:19.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:44:19.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:44:23.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:44:23.074] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:44:35.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:44:35.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:44:49.046] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:44:49.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:44:53.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:44:53.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:45:05.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:45:05.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:45:19.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:45:19.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:45:23.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:45:23.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:45:35.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:45:35.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:45:49.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:45:49.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:45:53.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:45:53.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:45:58.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:45:58.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:45:58.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save asd
+[08Dec2024 19:45:58.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete asd
+[08Dec2024 19:46:05.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:46:05.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:46:19.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:46:19.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:46:23.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:46:23.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:46:23.492] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@594de642: (connection has passed maxLifetime)
+[08Dec2024 19:46:23.492] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@6c6f9f5f
+[08Dec2024 19:46:30.934] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@1ae14e15: (connection has passed maxLifetime)
+[08Dec2024 19:46:30.934] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@563a5fe1
+[08Dec2024 19:46:35.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:46:35.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:46:49.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:46:49.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:46:53.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:46:53.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:47:05.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:47:05.194] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:47:12.364] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@724f3e25: (connection has passed maxLifetime)
+[08Dec2024 19:47:12.365] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@1088fad
+[08Dec2024 19:47:14.331] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@c297109: (connection has passed maxLifetime)
+[08Dec2024 19:47:14.331] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@cf213d2
+[08Dec2024 19:47:14.524] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@ee61886: (connection has passed maxLifetime)
+[08Dec2024 19:47:14.524] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@fcf71fc
+[08Dec2024 19:47:17.291] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@43d394c7: (connection has passed maxLifetime)
+[08Dec2024 19:47:17.291] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@235ec3c
+[08Dec2024 19:47:17.870] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@78b75555: (connection has passed maxLifetime)
+[08Dec2024 19:47:17.870] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@bf0e4dd
+[08Dec2024 19:47:18.137] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@411cfd11: (connection has passed maxLifetime)
+[08Dec2024 19:47:18.138] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@4ef27bc7
+[08Dec2024 19:47:19.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:47:19.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:47:23.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:47:23.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:47:24.836] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@7670a433: (connection has passed maxLifetime)
+[08Dec2024 19:47:24.836] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@5ae9ce97
+[08Dec2024 19:47:33.355] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@dc049d8: (connection has passed maxLifetime)
+[08Dec2024 19:47:33.356] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@4362da80
+[08Dec2024 19:47:33.390] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@41e73f6: (connection has passed maxLifetime)
+[08Dec2024 19:47:33.391] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@56b017c2
+[08Dec2024 19:47:33.716] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@21f72a: (connection has passed maxLifetime)
+[08Dec2024 19:47:33.716] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@5877f364
+[08Dec2024 19:47:34.064] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@781e3587: (connection has passed maxLifetime)
+[08Dec2024 19:47:34.065] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@446722bb
+[08Dec2024 19:47:34.235] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@2ee9efc: (connection has passed maxLifetime)
+[08Dec2024 19:47:34.235] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@4aa0c447
+[08Dec2024 19:47:35.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:47:35.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:47:39.100] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@5f6b95e6: (connection has passed maxLifetime)
+[08Dec2024 19:47:39.101] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@4e9f49cb
+[08Dec2024 19:47:39.832] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@6fef7046: (connection has passed maxLifetime)
+[08Dec2024 19:47:39.832] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@b9dce7c
+[08Dec2024 19:47:40.471] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@633f0783: (connection has passed maxLifetime)
+[08Dec2024 19:47:40.471] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@c80e926
+[08Dec2024 19:47:41.589] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@690fbcf9: (connection has passed maxLifetime)
+[08Dec2024 19:47:41.590] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@7612474e
+[08Dec2024 19:47:42.957] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@5f35244f: (connection has passed maxLifetime)
+[08Dec2024 19:47:42.957] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@24706c6
+[08Dec2024 19:47:43.084] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@6df8f44c: (connection has passed maxLifetime)
+[08Dec2024 19:47:43.084] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@6788256
+[08Dec2024 19:47:43.940] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@6d303587: (connection has passed maxLifetime)
+[08Dec2024 19:47:43.940] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@3adc2737
+[08Dec2024 19:47:44.994] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@6d11a79: (connection has passed maxLifetime)
+[08Dec2024 19:47:44.994] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@eb9f0b6
+[08Dec2024 19:47:46.814] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@734557dd: (connection has passed maxLifetime)
+[08Dec2024 19:47:46.815] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@437a0cfd
+[08Dec2024 19:47:49.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:47:49.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:47:53.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:47:53.075] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:47:54.595] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@7ca9fd06: (connection has passed maxLifetime)
+[08Dec2024 19:47:54.595] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@5569a89b
+[08Dec2024 19:47:56.308] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@764c9a7: (connection has passed maxLifetime)
+[08Dec2024 19:47:56.308] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@7b9cffb9
+[08Dec2024 19:47:57.995] [HikariPool-3 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-3 - Closing connection org.sqlite.jdbc4.JDBC4Connection@63f7d789: (connection has passed maxLifetime)
+[08Dec2024 19:47:57.995] [HikariPool-3 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Added connection org.sqlite.jdbc4.JDBC4Connection@347d3848
+[08Dec2024 19:48:00.065] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@2e9f4f9d: (connection has passed maxLifetime)
+[08Dec2024 19:48:00.066] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@3ed7e5f2
+[08Dec2024 19:48:04.828] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@6165ae05: (connection has passed maxLifetime)
+[08Dec2024 19:48:04.828] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@30100c58
+[08Dec2024 19:48:05.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:48:05.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:48:19.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:48:19.047] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:48:23.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:48:23.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:48:35.026] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@246724ed: (connection has passed maxLifetime)
+[08Dec2024 19:48:35.026] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@771e1332
+[08Dec2024 19:48:35.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:48:35.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:48:36.838] [HikariPool-2 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-2 - Closing connection org.sqlite.jdbc4.JDBC4Connection@2058a43e: (connection has passed maxLifetime)
+[08Dec2024 19:48:36.839] [HikariPool-2 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@79d9e3a1
+[08Dec2024 19:48:49.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:48:49.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:48:53.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:48:53.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:49:05.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:49:05.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:49:19.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:49:19.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:49:23.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:49:23.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:49:35.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:49:35.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:49:49.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:49:49.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:49:53.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:49:53.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:50:05.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:50:05.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:50:19.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:50:19.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:50:23.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:50:23.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:50:35.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:50:35.195] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:50:49.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:50:49.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:50:53.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:50:53.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:50:58.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:50:58.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:50:58.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save asd
+[08Dec2024 19:50:58.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete asd
+[08Dec2024 19:51:05.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:51:05.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:51:19.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:51:19.048] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:51:23.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:51:23.076] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:51:35.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:51:35.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:51:49.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:51:49.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:51:53.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:51:53.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:52:05.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:52:05.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:52:19.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:52:19.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:52:23.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:52:23.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:52:35.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:52:35.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:52:49.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:52:49.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:52:53.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:52:53.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:53:05.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:53:05.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:53:19.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:53:19.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:53:23.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:53:23.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:53:35.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:53:35.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:53:49.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:53:49.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:53:53.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:53:53.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:54:05.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:54:05.196] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:54:19.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:54:19.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:54:23.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:54:23.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:54:35.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:54:35.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:54:49.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:54:49.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:54:53.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:54:53.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:55:05.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:55:05.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:55:19.049] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:55:19.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:55:23.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:55:23.077] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:55:35.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:55:35.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:55:49.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:55:49.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:55:53.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:55:53.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:55:58.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:55:58.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:55:58.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save asd
+[08Dec2024 19:55:58.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete asd
+[08Dec2024 19:56:05.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:56:05.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:56:19.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:56:19.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:56:23.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:56:23.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:56:35.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:56:35.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:56:49.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:56:49.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:56:53.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:56:53.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:57:05.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:57:05.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:57:19.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:57:19.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:57:23.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:57:23.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:57:35.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:57:35.197] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:57:49.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:57:49.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:57:53.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:57:53.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:58:05.198] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:58:05.198] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:58:19.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:58:19.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:58:21.378] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[08Dec2024 19:58:23.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:58:23.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:58:35.198] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:58:35.198] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:58:49.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:58:49.050] [HikariPool-3 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-3 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 19:58:53.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 19:58:53.078] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
