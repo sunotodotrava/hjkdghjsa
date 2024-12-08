@@ -2261,3 +2261,41 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21
 [08Dec2024 18:28:02.636] [Server thread/INFO] [Console/]: <linkadorigind> manda
 [08Dec2024 18:28:08.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aikiss issued server command: /tpa linkadorigind
 [08Dec2024 18:28:12.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: linkadorigind issued server command: /tpaccept
+[08Dec2024 18:47:22.151] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player pablorelojero is 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 18:47:23.564] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@46ec34d0
+[08Dec2024 18:47:23.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablorelojero[/127.67.114.219:35781] logged in with entity id 22488 at (-357.1528952049217, 94.0, 1207.911476439159)
+[08Dec2024 18:47:23.613] [Server thread/INFO] [Waila/]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
+[08Dec2024 18:47:23.786] [Server thread/INFO] [ping-wheel/]: Channel update: pablorelojero -> "rawr"
+[08Dec2024 18:47:23.786] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablorelojero (18)
+[08Dec2024 18:47:23.787] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablorelojero
+[08Dec2024 18:47:27.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 18:47:28.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 18:47:28.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[08Dec2024 18:48:00.498] [Server thread/INFO] [Console/]: <pablorelojero> voy a laguear el server gordos tetones
+[08Dec2024 18:48:02.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /reload
+[08Dec2024 18:48:02.260] [Server thread/INFO] [Console/]: pablorelojero: Please note that this command is not supported and may cause issues when using some plugins.
+[08Dec2024 18:48:02.260] [Server thread/INFO] [Console/]: pablorelojero: If you encounter any issues please use the /stop command to restart your server.
+[08Dec2024 18:48:02.262] [Server thread/INFO] [SimpleSit/]: Disabling SimpleSit v1.7.1
+[08Dec2024 18:48:02.262] [Server thread/INFO] [Invsee_v1.0.3/]: Disabling Invsee_v1.0.3 v1.0
+[08Dec2024 18:48:02.263] [Server thread/INFO] [FD_Freeze/]: Disabling FD_Freeze v1.0
+[08Dec2024 18:48:02.263] [Server thread/INFO] [FD_Freeze/]: FreezePlugin disabled !
+[08Dec2024 18:48:02.263] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.4.4
+[08Dec2024 18:48:02.278] [Server thread/INFO] [DTools3/]: Disabling DTools3 v1.0.8-SNAPSHOT
+[08Dec2024 18:48:02.279] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.150
+[08Dec2024 18:48:02.279] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[08Dec2024 18:48:02.287] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[08Dec2024 18:48:02.301] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[08Dec2024 18:48:02.302] [Server thread/INFO] [SimpleTpa/]: Disabling SimpleTpa v7.3
+[08Dec2024 18:48:02.303] [Server thread/INFO] [Console/]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[08Dec2024 18:48:02.303] [Server thread/INFO] [Console/]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[08Dec2024 18:48:02.304] [Server thread/INFO] [CoreProtect/]: Disabling CoreProtect v22.4
+[08Dec2024 18:48:02.304] [Server thread/INFO] [Minecraft/]: [CoreProtect] Finishing up data logging. Please wait...
+[08Dec2024 18:48:03.205] [Server thread/INFO] [Minecraft/]: [CoreProtect] Success! Disabled CoreProtect v22.4
+[08Dec2024 18:48:03.275] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Dec2024 18:48:03.275] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Dec2024 18:48:03.276] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Dec2024 18:48:03.277] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Dec2024 18:48:03.277] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Dec2024 18:48:03.278] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cam-server, get, name, insert, location] and [cam-server, get, name, insert, index] with inputs: [0 0 0]
+[08Dec2024 18:48:03.279] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cam-server, get, name, set, location] and [cam-server, get, name, set, index] with inputs: [0 0 0]
+[08Dec2024 18:48:03.279] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]

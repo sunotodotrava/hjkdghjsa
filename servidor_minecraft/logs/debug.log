@@ -6197,3 +6197,314 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21
 [08Dec2024 18:37:23.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
 [08Dec2024 18:37:35.171] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
 [08Dec2024 18:37:35.171] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:37:53.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:37:53.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:38:05.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:38:05.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:38:23.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:38:23.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:38:35.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:38:35.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:38:53.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:38:53.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:39:05.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:39:05.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:39:23.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:39:23.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:39:25.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:39:25.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:39:35.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:39:35.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:39:53.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:39:53.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:40:05.174] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:40:05.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:40:23.054] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:40:23.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:40:35.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:40:35.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:40:53.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:40:53.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:41:05.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:41:05.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:41:23.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:41:23.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:41:35.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:41:35.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:41:53.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:41:53.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:42:05.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:42:05.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:42:23.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:42:23.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:42:35.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:42:35.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:42:53.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:42:53.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:43:05.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:43:05.175] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:43:23.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:43:23.055] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:43:35.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:43:35.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:43:53.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:43:53.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:44:05.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:44:05.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:44:23.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:44:23.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:44:25.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:44:25.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:44:35.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:44:35.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:44:53.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:44:53.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:45:05.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:45:05.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:45:23.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:45:23.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:45:35.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:45:35.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:45:53.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:45:53.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:46:05.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:46:05.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:46:23.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:46:23.056] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:46:35.176] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:46:35.177] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:46:53.057] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:46:53.057] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:47:05.177] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:47:05.177] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:47:22.149] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[08Dec2024 18:47:22.151] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player pablorelojero is 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 18:47:22.160] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Dec2024 18:47:22.208] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Dec2024 18:47:22.257] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[08Dec2024 18:47:22.308] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[08Dec2024 18:47:22.359] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 4
+[08Dec2024 18:47:22.407] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 5
+[08Dec2024 18:47:22.457] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[08Dec2024 18:47:22.457] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08Dec2024 18:47:22.457] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Dec2024 18:47:22.457] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, farmersdelight, auudio, mousetweaks, supermartijn642configlib, jade, waila, caffeineconfig, cmdcam, creativecore, treeharvester, jei, supermartijn642corelib, movingelevators, pingwheel, fancyvideo_api, dynamiclights, immersive_aircraft, sophisticatedcore, rubidium, notenoughanimations, xaerominimap, sodiumextra, collective, xaeroworldmap, immersive_paintings, chimediscs, sophisticatedbackpacks, architectury, otyacraftengine, iammusicplayer, terralith, carryon, melody, customwindowtitle, cloth_config, voicechat, simplevoicechat_broadcast, forge, cinematic, vmod, cristellib]
+[08Dec2024 18:47:22.457] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.457] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.457] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.17.2.15' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'movingelevators:main' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chimediscs:chimediscs' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:ping-location' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-s2c:ping-location' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:update-channel' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cinematic:network' : Version test of '2' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cmdcam:main' : Version test of '2' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Version test of '1.0.0' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Dec2024 18:47:22.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[08Dec2024 18:47:22.501] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[08Dec2024 18:47:22.501] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.501] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.508] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[08Dec2024 18:47:22.557] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[08Dec2024 18:47:22.606] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 9
+[08Dec2024 18:47:22.657] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 10
+[08Dec2024 18:47:22.682] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[08Dec2024 18:47:22.683] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.683] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.706] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 11
+[08Dec2024 18:47:22.714] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[08Dec2024 18:47:22.714] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.714] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.756] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[08Dec2024 18:47:22.757] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[08Dec2024 18:47:22.757] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.757] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.809] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 13
+[08Dec2024 18:47:22.818] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[08Dec2024 18:47:22.818] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.818] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.818] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[08Dec2024 18:47:22.818] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.818] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.819] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[08Dec2024 18:47:22.819] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.819] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.858] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 14
+[08Dec2024 18:47:22.878] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[08Dec2024 18:47:22.878] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.878] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.879] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[08Dec2024 18:47:22.879] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.879] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.907] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 15
+[08Dec2024 18:47:22.910] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[08Dec2024 18:47:22.910] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:22.910] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:22.956] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[08Dec2024 18:47:23.007] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 17
+[08Dec2024 18:47:23.023] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[08Dec2024 18:47:23.023] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.023] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.023] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[08Dec2024 18:47:23.023] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.023] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.057] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:47:23.057] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:47:23.060] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config carryon-server.toml' to 'fml:handshake' sequence 18
+[08Dec2024 18:47:23.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[08Dec2024 18:47:23.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[08Dec2024 18:47:23.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.109] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 19
+[08Dec2024 18:47:23.160] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vanishmod-server.toml' to 'fml:handshake' sequence 20
+[08Dec2024 18:47:23.173] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[08Dec2024 18:47:23.173] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.173] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.207] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 21
+[08Dec2024 18:47:23.257] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 22
+[08Dec2024 18:47:23.461] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[08Dec2024 18:47:23.461] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.461] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 18:47:23.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 18:47:23.507] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[08Dec2024 18:47:23.564] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@46ec34d0
+[08Dec2024 18:47:23.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablorelojero[/127.67.114.219:35781] logged in with entity id 22488 at (-357.1528952049217, 94.0, 1207.911476439159)
+[08Dec2024 18:47:23.570] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@347a1bbf into net.minecraft.network.Connection@6cc30c95
+[08Dec2024 18:47:23.613] [Server thread/INFO] [Waila/]: Syncing config to pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3)
+[08Dec2024 18:47:23.614] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of pablorelojero: {disabled=false, disconnected=true, uuid=8b4148a7-95b4-3cf1-bf08-985717a684d3, name=pablorelojero, group=null}
+[08Dec2024 18:47:23.786] [Server thread/INFO] [ping-wheel/]: Channel update: pablorelojero -> "rawr"
+[08Dec2024 18:47:23.786] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablorelojero (18)
+[08Dec2024 18:47:23.787] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to pablorelojero
+[08Dec2024 18:47:23.787] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with pablorelojero
+[08Dec2024 18:47:23.787] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with pablorelojero
+[08Dec2024 18:47:23.787] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablorelojero
+[08Dec2024 18:47:26.273] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@3fe2c303: (connection has passed maxLifetime)
+[08Dec2024 18:47:26.274] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@6dd6fdb5
+[08Dec2024 18:47:27.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 18:47:28.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8b4148a7-95b4-3cf1-bf08-985717a684d3
+[08Dec2024 18:47:28.154] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of pablorelojero to connected: {disabled=false, disconnected=false, uuid=8b4148a7-95b4-3cf1-bf08-985717a684d3, name=pablorelojero, group=null}
+[08Dec2024 18:47:28.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablorelojero (8b4148a7-95b4-3cf1-bf08-985717a684d3) successfully connected to voice chat
+[08Dec2024 18:47:30.370] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of pablorelojero: {disabled=false, disconnected=false, uuid=8b4148a7-95b4-3cf1-bf08-985717a684d3, name=pablorelojero, group=null}
+[08Dec2024 18:47:35.177] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:47:35.177] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:47:51.996] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@24e88f70: (connection has passed maxLifetime)
+[08Dec2024 18:47:51.997] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@4eb4c050
+[08Dec2024 18:47:53.057] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:47:53.057] [HikariPool-1 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:47:53.222] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@2a2f6445: (connection has passed maxLifetime)
+[08Dec2024 18:47:53.222] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@407327f6
+[08Dec2024 18:47:58.609] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@31252a8f: (connection has passed maxLifetime)
+[08Dec2024 18:47:58.609] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@11ac63e9
+[08Dec2024 18:48:00.498] [Server thread/INFO] [Console/]: <pablorelojero> voy a laguear el server gordos tetones
+[08Dec2024 18:48:02.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablorelojero issued server command: /reload
+[08Dec2024 18:48:02.260] [Server thread/INFO] [Console/]: pablorelojero: Please note that this command is not supported and may cause issues when using some plugins.
+[08Dec2024 18:48:02.260] [Server thread/INFO] [Console/]: pablorelojero: If you encounter any issues please use the /stop command to restart your server.
+[08Dec2024 18:48:02.262] [Server thread/INFO] [SimpleSit/]: Disabling SimpleSit v1.7.1
+[08Dec2024 18:48:02.262] [Server thread/INFO] [Invsee_v1.0.3/]: Disabling Invsee_v1.0.3 v1.0
+[08Dec2024 18:48:02.263] [Server thread/INFO] [FD_Freeze/]: Disabling FD_Freeze v1.0
+[08Dec2024 18:48:02.263] [Server thread/INFO] [FD_Freeze/]: FreezePlugin disabled !
+[08Dec2024 18:48:02.263] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.4.4
+[08Dec2024 18:48:02.278] [Server thread/INFO] [DTools3/]: Disabling DTools3 v1.0.8-SNAPSHOT
+[08Dec2024 18:48:02.279] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.150
+[08Dec2024 18:48:02.279] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[08Dec2024 18:48:02.287] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[08Dec2024 18:48:02.301] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[08Dec2024 18:48:02.302] [Server thread/INFO] [SimpleTpa/]: Disabling SimpleTpa v7.3
+[08Dec2024 18:48:02.303] [Server thread/INFO] [Console/]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[08Dec2024 18:48:02.303] [Server thread/INFO] [Console/]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[08Dec2024 18:48:02.304] [Server thread/INFO] [CoreProtect/]: Disabling CoreProtect v22.4
+[08Dec2024 18:48:02.304] [Server thread/INFO] [Minecraft/]: [CoreProtect] Finishing up data logging. Please wait...
+[08Dec2024 18:48:03.205] [Server thread/INFO] [Minecraft/]: [CoreProtect] Success! Disabled CoreProtect v22.4
+[08Dec2024 18:48:03.208] [Server thread/DEBUG] [Cristel Lib/]: net.cristellib.builtinpacks.RuntimePack@342593f7 has no data
+[08Dec2024 18:48:03.208] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:farmersdelight for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/FarmersDelight-1.18.2-1.2.3.jar
+[08Dec2024 18:48:03.210] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:auudio for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/auudio_forge_1.0.3_MC_1.18-1.18.2.jar
+[08Dec2024 18:48:03.212] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:supermartijn642configlib for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/supermartijn642configlib-1.1.8-forge-mc1.18.jar
+[08Dec2024 18:48:03.214] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jade for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/Jade-1.18.2-forge-5.3.2.jar
+[08Dec2024 18:48:03.215] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cmdcam for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/CMDCam_FORGE_v2.1.1_mc1.18.2.jar
+[08Dec2024 18:48:03.216] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:creativecore for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/CreativeCore_FORGE_v2.11.27_mc1.18.2.jar
+[08Dec2024 18:48:03.219] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:treeharvester for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/treeharvester-1.18.2-8.3.jar
+[08Dec2024 18:48:03.221] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jei for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/jei-1.18.2-forge-10.2.1.1002.jar
+[08Dec2024 18:48:03.221] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:supermartijn642corelib for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/supermartijn642corelib-1.1.17-forge-mc1.18.jar
+[08Dec2024 18:48:03.223] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:movingelevators for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/movingelevators-1.4.10-forge-mc1.18.jar
+[08Dec2024 18:48:03.223] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:pingwheel for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/Ping-Wheel-1.10.0-forge-1.18.2.jar
+[08Dec2024 18:48:03.224] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fancyvideo_api for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/FancyVideo-API-forge-2.2.0.0.jar
+[08Dec2024 18:48:03.228] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dynamiclights for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/dynamiclights-v1.8.5-mc1.17x-1.21x-mod.jar
+[08Dec2024 18:48:03.231] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:immersive_aircraft for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/immersive_aircraft-0.5.2+1.18.2-forge.jar
+[08Dec2024 18:48:03.232] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sophisticatedcore for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/sophisticatedcore-1.18.2-0.6.4.604.jar
+[08Dec2024 18:48:03.233] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaerominimap for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/Xaeros_Minimap_24.6.1_Forge_1.18.2.jar
+[08Dec2024 18:48:03.233] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:collective for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/collective-1.18.2-7.7.jar
+[08Dec2024 18:48:03.234] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaeroworldmap for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/XaerosWorldMap_1.39.0_Forge_1.18.2.jar
+[08Dec2024 18:48:03.235] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:immersive_paintings for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/immersive_paintings-0.6.7+1.18.2-forge.jar
+[08Dec2024 18:48:03.237] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:chimediscs for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/chimedisc.jar
+[08Dec2024 18:48:03.240] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sophisticatedbackpacks for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar
+[08Dec2024 18:48:03.241] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:architectury for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/architectury-4.12.94-forge.jar
+[08Dec2024 18:48:03.242] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:otyacraftengine for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/otyacraftengine-forge-1.18.2-2.14.jar
+[08Dec2024 18:48:03.244] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:iammusicplayer for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/iammusicplayer-forge-1.18.2-3.16.6.jar
+[08Dec2024 18:48:03.244] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:arclight for mod file /workspaces/hjkdghjsa/servidor_minecraft/.arclight/mod_file/arclight-1.18.2-1.0.12-fded76e.jar
+[08Dec2024 18:48:03.245] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:terralith for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/Terralith_1.18.2_v2.2.6.jar
+[08Dec2024 18:48:03.245] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:carryon for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/carryon-1.18.2-1.17.2.15.jar
+[08Dec2024 18:48:03.247] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:melody for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/melody_forge_1.0.1_MC_1.18.2.jar
+[08Dec2024 18:48:03.248] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cloth_config for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/cloth-config-6.5.102-forge.jar
+[08Dec2024 18:48:03.249] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:voicechat for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/voicechat-forge-1.18.2-2.5.26.jar
+[08Dec2024 18:48:03.249] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:simplevoicechat_broadcast for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/simplevoicechat_broadcast-mc1.18.2-1.0.1.jar
+[08Dec2024 18:48:03.250] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/hjkdghjsa/servidor_minecraft/libraries/net/minecraftforge/forge/1.18.2-40.2.14/forge-1.18.2-40.2.14-universal.jar
+[08Dec2024 18:48:03.251] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cinematic for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/cinematic-forge-1.18.2-1.0.jar
+[08Dec2024 18:48:03.255] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:vmod for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/Vanishmod-1.18.2-1.1.14.jar
+[08Dec2024 18:48:03.256] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cristellib for mod file /workspaces/hjkdghjsa/servidor_minecraft/mods/cristellib-forge-1.0.0.jar
+[08Dec2024 18:48:03.275] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Dec2024 18:48:03.275] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Dec2024 18:48:03.276] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Dec2024 18:48:03.277] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Dec2024 18:48:03.277] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Dec2024 18:48:03.278] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cam-server, get, name, insert, location] and [cam-server, get, name, insert, index] with inputs: [0 0 0]
+[08Dec2024 18:48:03.279] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cam-server, get, name, set, location] and [cam-server, get, name, set, index] with inputs: [0 0 0]
+[08Dec2024 18:48:03.279] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Dec2024 18:48:05.178] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[08Dec2024 18:48:05.178] [HikariPool-2 housekeeper/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-2 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[08Dec2024 18:48:07.059] [HikariPool-1 connection closer/DEBUG] [com.francobm.dtools3.libs.hikari.pool.PoolBase/]: HikariPool-1 - Closing connection org.sqlite.jdbc4.JDBC4Connection@733d89b3: (connection has passed maxLifetime)
+[08Dec2024 18:48:07.060] [HikariPool-1 connection adder/DEBUG] [com.francobm.dtools3.libs.hikari.pool.HikariPool/]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@1dc79d4a
