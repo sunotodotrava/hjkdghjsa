@@ -10,4 +10,4 @@ maxWaitTime = 10000
 retryTime = 3000
 dropItemRing = true
 patchouliIntegration = true
-soundPhysicsRemasteredIntegration = true
+soundPhysicsRemasteredIntegration = false
